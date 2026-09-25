@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+# Raw axe output is intermediate; see "Remove raw axe JSON" in the workflows
+docs/**/axe_json/

@@ -100,6 +100,10 @@ jobs:
             --datestamp "${{ env.DATESTAMP }}" \
             --page-count ${{ steps.count_pages.outputs.total }}
 
+      # Raw axe JSON is only needed to build the reports above; publishing it pushes Pages past its 10GB limit
+      - name: Remove raw axe JSON
+        run: rm -rf "$REPORT_DIR/axe_json"
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
