@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Accessibility Summary Report</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.2/js/dataTables.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.min.css">
+<style>
+body { font-family: sans-serif; padding: 2rem; }
+table { border-collapse: collapse; width: 100%; margin-top: 1rem; table-layout: fixed; }
+th, td { border: 1px solid #ccc; padding: 6px; text-align: center; word-break: break-word; }
+th { background: #f4f4f4; }
+canvas { max-width: 900px; margin: 2rem auto; display: block; }
+</style>
+
+</head>
+<body>
+
+<h1>Accessibility Summary Report</h1>
+
+<div class="meta">
+<div><strong>Site:</strong> urbana-drupal</div>
+<div><strong>URL:</strong> <a href="https://test-ufl.pantheonsite.io/">https://test-ufl.pantheonsite.io/</a></div>
+<div><strong>Date:</strong> 2026-09-25</div>
+</div>
+
+<table id="summary-table">
+<thead>
+<tr>
+
+</tr>
+</thead><tbody>
+
+</tbody></table>
+
+<script>
+
+$(document).ready(function() {
+  $('#summary-table').DataTable({ paging: false });
+});
+</script>
+
+
+</body>
+</html>
