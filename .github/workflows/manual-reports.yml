@@ -1,10 +1,8 @@
-# .github/workflows/monthly-report.yml
+# .github/workflows/manual-reports.yml
 name: Manual Website Report
 
 on:
-  schedule:
-    - cron: '0 6 1 * *' # Monthly on the 1st at 6AM UTC
-  workflow_dispatch:     # Optional: allow manual runs
+  workflow_dispatch:
     inputs:
       site_name:
         description: 'Client name (used in logs/folder names)'
@@ -15,6 +13,10 @@ on:
       max_pages:
         description: 'Max pages'
         required: true
+      ignore_robots:
+        description: 'Ignore robots.txt (needed for Pantheon dev/test sites, which disallow all crawling)'
+        type: boolean
+        default: false
 
 jobs:
 
@@ -80,7 +82,7 @@ jobs:
           ls -la "$REPORT_DIR" || echo "Directory does not exist"
       
       - name: Run a11y scan
-        run: node crawler.js --report-dir="$REPORT_DIR" --max-pages="$MAX_PAGES" --site-name="$SITE_NAME" --start-url="$SITE_URL" --datestamp="$DATESTAMP"
+        run: node crawler.js --report-dir="$REPORT_DIR" --max-pages="$MAX_PAGES" --site-name="$SITE_NAME" --start-url="$SITE_URL" --datestamp="$DATESTAMP" ${{ inputs.ignore_robots && '--ignore-robots' || '' }}
 
       - name: Generate a11y reports
         run: node summary-reporter.js --report-dir="$REPORT_DIR" --site-name="$SITE_NAME" --start-url="$SITE_URL" --datestamp="$DATESTAMP"
