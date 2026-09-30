@@ -1,0 +1,1196 @@
+{
+  "site": "urbana-drupal",
+  "startUrl": "https://urbanafreelibrary.org/",
+  "datestamp": "2026-09-30",
+  "axeVersion": "4.10.3",
+  "pagesScanned": 10,
+  "totals": {
+    "violations": 1,
+    "needsReview": 20
+  },
+  "issues": [
+    {
+      "type": "violation",
+      "rule": "autocomplete-valid",
+      "impact": "serious",
+      "help": "autocomplete attribute must be used correctly",
+      "description": "Ensure the autocomplete attribute is correct and suitable for the form field",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/autocomplete-valid?application=axeAPI",
+      "wcag": [
+        "wcag21aa",
+        "wcag135"
+      ],
+      "selector": "#edit-information-needed-by",
+      "html": "<input type=\"text\" data-datepicker-button=\"\" data-drupal-date-format=\"l, F j, Y\" data-drupal-selector=\"edit-information-needed-by\" id=\"edit-information-needed-by\" name=\"information_needed_by\" value=\"\" class=\"form-text required hasDatepicker\" required=\"required\" aria-required=\"true\" data-once=\"datePicker\" autocomplete=\"chrome-off-91072464\">",
+      "failureSummary": "Fix all of the following:\n  the autocomplete attribute is incorrectly formatted",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "autocomplete-valid",
+          "message": "the autocomplete attribute is incorrectly formatted",
+          "data": null,
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "frame-tested",
+      "impact": "critical",
+      "help": "Frames should be tested with axe-core",
+      "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+      "wcag": [
+        "best-practice"
+      ],
+      "selector": ".widgetframepreview",
+      "html": "<iframe title=\"embedded list of upcoming events at the library\" src=\"https://urbanafreelibrary.libnet.info/widget?id=15863&amp;style=1168&amp;location=1672\" data-widgetid=\"15863\" data-client=\"urbanafreelibrary\" scrolling=\"no\" style=\"overflow: hidden;\" marginheight=\"0\" class=\"widgetframepreview\" onload=\"resizeIframe(this)\" width=\"100%\" height=\"350\" frameborder=\"0\">",
+      "failureSummary": "Fix all of the following:\n  The iframe still has to be tested with axe-core",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "frame-tested",
+          "message": "The iframe still has to be tested with axe-core",
+          "data": null,
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 8,
+      "examplePages": [
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "frame-tested",
+      "impact": "critical",
+      "help": "Frames should be tested with axe-core",
+      "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+      "wcag": [
+        "best-practice"
+      ],
+      "selector": "iframe[data-widgetid=\"15863\"]",
+      "html": "<iframe title=\"embedded list of upcoming events at the library\" src=\"https://urbanafreelibrary.libnet.info/widget?id=15863&amp;style=1168&amp;location=1672\" data-widgetid=\"15863\" data-client=\"urbanafreelibrary\" scrolling=\"no\" style=\"overflow: hidden;\" marginheight=\"0\" class=\"widgetframepreview\" onload=\"resizeIframe(this)\" width=\"100%\" height=\"350\" frameborder=\"0\">",
+      "failureSummary": "Fix all of the following:\n  The iframe still has to be tested with axe-core",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "frame-tested",
+          "message": "The iframe still has to be tested with axe-core",
+          "data": null,
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "frame-tested",
+      "impact": "critical",
+      "help": "Frames should be tested with axe-core",
+      "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+      "wcag": [
+        "best-practice"
+      ],
+      "selector": "iframe[data-widgetid=\"15906\"]",
+      "html": "<iframe title=\"embedded book list for Featured New Titles\" src=\"https://urbanafreelibrary.libnet.info/widget?id=15906&amp;style=502&amp;bodyonly=1\" data-widgetid=\"15906\" data-client=\"urbanafreelibrary\" scrolling=\"no\" style=\"overflow: hidden;\" marginheight=\"0\" class=\"widgetframepreview\" onload=\"resizeIframe(this)\" width=\"300\" height=\"400\" frameborder=\"0\">",
+      "failureSummary": "Fix all of the following:\n  The iframe still has to be tested with axe-core",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "frame-tested",
+          "message": "The iframe still has to be tested with axe-core",
+          "data": null,
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "aria-valid-attr-value",
+      "impact": "critical",
+      "help": "ARIA attributes must conform to valid values",
+      "description": "Ensure all ARIA attributes have valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-valid-attr-value?application=axeAPI",
+      "wcag": [
+        "wcag2a",
+        "wcag412"
+      ],
+      "selector": "#dd-input",
+      "html": "<input role=\"combobox\" aria-expanded=\"false\" name=\"doublethedonation_company_name_input\" autocomplete=\"organization\" type=\"text\" aria-controls=\"dtd-select-menu\" id=\"dd-input\" aria-label=\"See if your employer will match your donation!\" aria-haspopup=\"listbox\" class=\"dtd-search-input form-control BBFormTextbox\" placeholder=\"Search for company...\" style=\"width: 100%;\">",
+      "failureSummary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"dtd-select-menu\"",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "aria-valid-attr-value",
+          "message": "Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"dtd-select-menu\"",
+          "data": {
+            "messageKey": "controlsWithinPopup",
+            "needsReview": "aria-controls=\"dtd-select-menu\""
+          },
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "frame-tested",
+      "impact": "critical",
+      "help": "Frames should be tested with axe-core",
+      "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+      "wcag": [
+        "best-practice"
+      ],
+      "selector": "iframe[title=\"reCAPTCHA\"]",
+      "html": "<iframe title=\"reCAPTCHA\" width=\"164\" height=\"144\" role=\"presentation\" name=\"a-v3aocp4rwd8u\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcR3bMgAAAAAMtqJWWe7gF_q2tXwASN7i6EkbCR&amp;co=aHR0cHM6Ly91cmJhbmFmcmVlbGlicmFyeS5vcmc6NDQz&amp;hl=en&amp;type=image&amp;v=kemdRjWFxNjgsGdhRslyEPwU&amp;theme=light&amp;size=compact&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=guy8io1qn2dc\">",
+      "failureSummary": "Fix all of the following:\n  The iframe still has to be tested with axe-core",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "frame-tested",
+          "message": "The iframe still has to be tested with axe-core",
+          "data": null,
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": ".goog-te-gadget",
+      "html": "<div class=\"skiptranslate goog-te-gadget\" dir=\"ltr\" style=\"\">",
+      "failureSummary": "Fix any of the following:\n  Element has a 1:1 contrast ratio with the background",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element has a 1:1 contrast ratio with the background",
+          "data": {
+            "fgColor": "#ffffff",
+            "bgColor": "#ffffff",
+            "contrastRatio": 1,
+            "fontSize": "8.3pt (11px)",
+            "fontWeight": "normal",
+            "messageKey": "equalRatio",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": []
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": ".goog-te-combo",
+      "html": "<select class=\"goog-te-combo\" aria-label=\"Language Translate Widget\">",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "10.5pt (14px)",
+            "fontWeight": "bold",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": ".goog-te-combo",
+              "html": "<select class=\"goog-te-combo\" aria-label=\"Language Translate Widget\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "a[href$=\"library-cards\"] > .text",
+      "html": "<div class=\"text\">Get a Card</div>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": ".icon-menu",
+              "html": "<div class=\"icon-menu\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "a[href$=\"research-learn\"] > .text",
+      "html": "<div class=\"text\">Research &amp; Learn</div>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": ".icon-menu",
+              "html": "<div class=\"icon-menu\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "a[href=\"/node/138\"] > .text",
+      "html": "<div class=\"text\">Reserve a Room</div>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": ".icon-menu",
+              "html": "<div class=\"icon-menu\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "a[href$=\"ebooks-more\"] > .text",
+      "html": "<div class=\"text\">Download &amp; Stream</div>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": ".icon-menu",
+              "html": "<div class=\"icon-menu\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "li:nth-child(5) > a > .text",
+      "html": "<div class=\"text\">Search the Catalog</div>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": ".icon-menu",
+              "html": "<div class=\"icon-menu\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 10,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        },
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        },
+        {
+          "page": "3",
+          "url": "https://urbanafreelibrary.org/using-library/library-cards",
+          "title": "Library Cards | Urbana Free Library"
+        },
+        {
+          "page": "4",
+          "url": "https://urbanafreelibrary.org/using-library/borrow-return",
+          "title": "Borrowing Information | Urbana Free Library"
+        },
+        {
+          "page": "5",
+          "url": "https://urbanafreelibrary.org/using-library/collections",
+          "title": "Collections | Urbana Free Library"
+        },
+        {
+          "page": "6",
+          "url": "https://urbanafreelibrary.org/using-library/services",
+          "title": "Services | Urbana Free Library"
+        },
+        {
+          "page": "7",
+          "url": "https://urbanafreelibrary.org/using-library/library-things",
+          "title": "Library of Things | Urbana Free Library"
+        },
+        {
+          "page": "8",
+          "url": "https://urbanafreelibrary.org/using-library/parents-teachers",
+          "title": "Parents & Teachers | Urbana Free Library"
+        },
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": ".slick-prev",
+      "html": "<button class=\"slick-prev slick-arrow\" aria-label=\"Previous\" type=\"button\" style=\"\">Previous</button>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined because element contains an image node",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "0.0pt (0px)",
+            "fontWeight": "bold",
+            "messageKey": "imgNode",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#slick-slide00 > .paragraph.paragraph--type--feature-slide.paragraph--view-mode--default > a > .field--type-entity-reference.field--name-field-slide-image.field--label-hidden > .media.media--type-homepage-feature.media--view-mode-default > .field--name-field-media-image.field--label-visually_hidden.field--type-image > .field__item > .image-style-feature-image-1400x354-[alt=\"Event graphic\"][width=\"1400\"]",
+              "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/feature_image_1400x354_/public/2026-09/icmscw-web_26.jpg?itok=TF85Vn_f\" width=\"1400\" height=\"354\" alt=\"Event graphic\" class=\"image-style-feature-image-1400x354-\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": ".slick-next",
+      "html": "<button class=\"slick-next slick-arrow\" aria-label=\"Next\" type=\"button\" style=\"\">Next</button>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined because element contains an image node",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "0.0pt (0px)",
+            "fontWeight": "bold",
+            "messageKey": "imgNode",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#slick-slide00 > .paragraph.paragraph--type--feature-slide.paragraph--view-mode--default > a > .field--type-entity-reference.field--name-field-slide-image.field--label-hidden > .media.media--type-homepage-feature.media--view-mode-default > .field--name-field-media-image.field--label-visually_hidden.field--type-image > .field__item > .image-style-feature-image-1400x354-[alt=\"Event graphic\"][width=\"1400\"]",
+              "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/feature_image_1400x354_/public/2026-09/icmscw-web_26.jpg?itok=TF85Vn_f\" width=\"1400\" height=\"354\" alt=\"Event graphic\" class=\"image-style-feature-image-1400x354-\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": ".content > h3",
+      "html": "<h3>Sign up for our e-newsletter</h3>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "13.5pt (18px)",
+            "fontWeight": "bold",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#newsletter-banner",
+              "html": "<div id=\"newsletter-banner\" class=\"banner-block block block-layout-builder block-inline-blockbasic\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": ".content > p",
+      "html": "<p>Get information about Library events, services, and other news!</p>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#newsletter-banner",
+              "html": "<div id=\"newsletter-banner\" class=\"banner-block block block-layout-builder block-inline-blockbasic\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://urbanafreelibrary.org",
+          "title": "Homepage | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "h1 > .field--name-title.field--type-string",
+      "html": "<span class=\"field field--name-title field--type-string field--label-hidden\">eBooks</span>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "27.0pt (36px)",
+            "fontWeight": "bold",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "3:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#block-ufl-page-title",
+              "html": "<div id=\"block-ufl-page-title\" class=\"banner-background full-width banner-background--stretch background-image--upload block block-core block-page-title-block\" style=\"background-image: url(https://urbanafreelibrary.org/sites/default/files/title-backgrounds/2022-05/ebooks-bg.png)\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "#block-ebookssectionteaser > .text-formatted.field--name-body.field--type-text-with-summary > p",
+      "html": "<p>Stream and download thousands of movies, music, audiobooks, and more on your Smart TV or mobile device.</p>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#block-ufl-page-title",
+              "html": "<div id=\"block-ufl-page-title\" class=\"banner-background full-width banner-background--stretch background-image--upload block block-core block-page-title-block\" style=\"background-image: url(https://urbanafreelibrary.org/sites/default/files/title-backgrounds/2022-05/ebooks-bg.png)\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "10",
+          "url": "https://urbanafreelibrary.org/ebooks-more",
+          "title": "eBooks | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "#dd-input",
+      "html": "<input role=\"combobox\" aria-expanded=\"false\" name=\"doublethedonation_company_name_input\" autocomplete=\"organization\" type=\"text\" aria-controls=\"dtd-select-menu\" id=\"dd-input\" aria-label=\"See if your employer will match your donation!\" aria-haspopup=\"listbox\" class=\"dtd-search-input form-control BBFormTextbox\" placeholder=\"Search for company...\" style=\"width: 100%;\">",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined due to a background image",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "bgImage",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#dd-input",
+              "html": "<input role=\"combobox\" aria-expanded=\"false\" name=\"doublethedonation_company_name_input\" autocomplete=\"organization\" type=\"text\" aria-controls=\"dtd-select-menu\" id=\"dd-input\" aria-label=\"See if your employer will match your donation!\" aria-haspopup=\"listbox\" class=\"dtd-search-input form-control BBFormTextbox\" placeholder=\"Search for company...\" style=\"width: 100%;\">"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "2",
+          "url": "https://urbanafreelibrary.org/donate",
+          "title": "Donate | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+      "wcag": [
+        "wcag2aa",
+        "wcag143"
+      ],
+      "selector": "#edit-type-question-here",
+      "html": "<textarea data-drupal-selector=\"edit-type-question-here\" id=\"edit-type-question-here\" name=\"type_question_here\" rows=\"5\" cols=\"60\" class=\"form-textarea required resize-vertical\" required=\"required\" aria-required=\"true\"></textarea>",
+      "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "color-contrast",
+          "message": "Element's background color could not be determined because it's partially obscured by another element",
+          "data": {
+            "contrastRatio": 0,
+            "fontSize": "12.0pt (16px)",
+            "fontWeight": "normal",
+            "messageKey": "elmPartiallyObscured",
+            "expectedContrastRatio": "4.5:1"
+          },
+          "relatedNodes": [
+            {
+              "selector": "#edit-type-question-here",
+              "html": "<textarea data-drupal-selector=\"edit-type-question-here\" id=\"edit-type-question-here\" name=\"type_question_here\" rows=\"5\" cols=\"60\" class=\"form-textarea required resize-vertical\" required=\"required\" aria-required=\"true\"></textarea>"
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "9",
+          "url": "https://urbanafreelibrary.org/using-library/ask",
+          "title": "Ask Library Staff | Urbana Free Library"
+        }
+      ]
+    }
+  ]
+}
