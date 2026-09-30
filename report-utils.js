@@ -133,7 +133,30 @@ $(document).ready(function() {
 
 
 // -----------------------------
+// axe issue identity
+// -----------------------------
+// axe targets are arrays; nested arrays mean iframes / shadow DOM
+function formatTarget(target) {
+  return (target || []).map(t => Array.isArray(t) ? t.join(' >>> ') : t).join(' >>> ');
+}
+
+// Shared by the crawler (screenshots) and summary-reporter (remediation.json)
+// so both group the same element the same way
+function issueKey(type, ruleId, target) {
+  return `${type}|${ruleId}|${formatTarget(target)}`;
+}
+
+function screenshotPath(key) {
+  const hash = require('crypto').createHash('sha1').update(key).digest('hex').slice(0, 12);
+  return `screenshots/${hash}.png`;
+}
+
+
+// -----------------------------
 module.exports = {
   readCSV,
-  writeReport
+  writeReport,
+  formatTarget,
+  issueKey,
+  screenshotPath
 };

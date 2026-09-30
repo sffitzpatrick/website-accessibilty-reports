@@ -6,7 +6,7 @@ const path = require('path');
 const csvWriter = require('csv-writer').createObjectCsvWriter;
 const args = require('minimist')(process.argv.slice(2));
 
-const { readCSV, writeReport } = require('./report-utils');
+const { readCSV, writeReport, formatTarget, issueKey, screenshotPath } = require('./report-utils');
 
 // -----------------------------
 // Command-line / Environment
@@ -47,11 +47,6 @@ const WEIGHTS = { critical: 4, serious: 3, moderate: 2, minor: 1 };
 const MAX_EXAMPLE_PAGES = 10;
 const MAX_RELATED_NODES = 5;
 
-// axe targets are arrays; nested arrays mean iframes / shadow DOM
-function formatTarget(target) {
-  return (target || []).map(t => Array.isArray(t) ? t.join(' >>> ') : t).join(' >>> ');
-}
-
 function formatChecks(node) {
   return ['any', 'all', 'none'].flatMap(kind => (node[kind] || []).map(check => ({
     kind,
@@ -69,7 +64,7 @@ function addIssues(type, rules, page) {
   rules.forEach(rule => {
     rule.nodes?.forEach(node => {
       const selector = formatTarget(node.target);
-      const key = `${type}|${rule.id}|${selector}`;
+      const key = issueKey(type, rule.id, node.target);
 
       if (!issues.has(key)) {
         issues.set(key, {
@@ -84,6 +79,7 @@ function addIssues(type, rules, page) {
           html: node.html,
           failureSummary: node.failureSummary || null,
           checks: formatChecks(node),
+          screenshot: null,
           pageCount: 0,
           examplePages: []
         });
@@ -92,6 +88,10 @@ function addIssues(type, rules, page) {
       // axe selectors are unique within a page, so each hit here is a new page
       const issue = issues.get(key);
       issue.pageCount++;
+      // The crawler screenshots each needs-review issue once, on whichever page it saw it first
+      if (!issue.screenshot && type === 'needs-review' && fs.existsSync(path.join(__dirname, REPORT_DIR, screenshotPath(key)))) {
+        issue.screenshot = screenshotPath(key);
+      }
       if (issue.examplePages.length < MAX_EXAMPLE_PAGES) issue.examplePages.push(page);
     });
   });
