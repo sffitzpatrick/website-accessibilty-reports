@@ -103,99 +103,10 @@
                     <br />
                 </div>
             </div>
-            <h2>axe-core found <span class="badge badge-warning">1</span> violation</h2>
-            <table class="table table-striped table-bordered">
-                <thead>
-                    <tr>
-                        <th style="width: 5%">#</th>
-                        <th style="width: 45%">Description</th>
-                        <th style="width: 15%">Axe rule ID</th>
-                        <th style="width: 23%">WCAG</th>
-                        <th style="width: 7%">Impact</th>
-                        <th style="width: 5%">Count</th>
-                    </tr>
-                </thead>
+            <h2>axe-core found <span class="badge badge-success">0</span> violations</h2>
                 <tbody>
-                    <tr>
-                        <th scope="row"><a href="#1" class="card-link">1</a></th>
-                        <td>Landmarks should have a unique role or role&#x2F;label&#x2F;title (i.e. accessible name) combination</td>
-                        <td>landmark-unique</td>
-                        <td>Best practice</td>
-                        <td>moderate</td>
-                        <td>1</td>
-                    </tr>
                 </tbody>
             </table>
-            <h3>Failed</h3>
-            <div class="card violationCard">
-                <div class="card-body">
-                    <div class="violationCardLine">
-                        <p class="card-title">
-                            <a id="1">1.</a> Landmarks should have a unique role or role&#x2F;label&#x2F;title (i.e. accessible name) combination
-                        </p>
-                        <a
-                            href="https:&#x2F;&#x2F;dequeuniversity.com&#x2F;rules&#x2F;axe&#x2F;4.10&#x2F;landmark-unique?application&#x3D;axeAPI"
-                            target="_blank"
-                            class="card-link violationCardTitleItem learnMore"
-                            >Learn more</a
-                        >
-                    </div>
-                    <div class="violationCardLine">
-                        <p class="card-subtitle mb-2 text-muted">landmark-unique</p>
-                        <p class="card-subtitle mb-2 text-muted violationCardTitleItem">
-                            Best practice
-                        </p>
-                    </div>
-                    <div class="violationCardLine">
-                        <p class="card-text">Ensure landmarks are unique</p>
-                        <p class="card-subtitle mb-2 text-muted violationCardTitleItem">
-                            moderate
-                        </p>
-                    </div>
-                    <div class="violationCardLine">
-                        <p class="card-subtitle mb-2 text-muted violationCardTitleItem">
-                            Issue Tags: 
-                            <span class="badge bg-light text-dark"> cat.semantics </span>
-
-                            <span class="badge bg-light text-dark"> best-practice </span>
-                        </p>
-                    </div>
-                    <div class="violationNode">
-                        <table class="table table-sm table-bordered">
-                            <thead>
-                                <tr>
-                                    <th style="width: 2%">#</th>
-                                    <th style="width: 49%">Issue Description</th>
-                                    <th style="width: 49%">
-                                        To solve this violation, you need to...
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>1</td>
-                                    <td>
-                                        <p><strong>Element location</strong></p>
-                                        <pre><code class="css text-wrap">#region-mobile-navigation</code></pre>
-                                        <p><strong>Element source</strong></p>
-                                        <pre><code class="html text-wrap">&lt;div role&#x3D;&quot;navigation&quot; aria-label&#x3D;&quot;Mobile navigation&quot; class&#x3D;&quot;region region-mobile-navigation&quot; id&#x3D;&quot;region-mobile-navigation&quot;&gt;</code></pre>
-                                    </td>
-                                    <td>
-                                        <div class="wrapBreakWord">
-                                            <p>Fix any of the following:</p>
-                                            <ul class="text-muted">
-                                                <li>  The landmark must have a unique aria-label, aria-labelledby, or title to make landmarks distinguishable</li>
-                                            </ul>
-                                        </div>
-                                        <p><strong>Related node:</strong></p>
-                                        <pre><code class="css text-wrap">#block-mainnavigation-2</code></pre>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
             <div id="accordionPasses">
                 <div class="card">
                     <div class="card-header" id="headingOne">
@@ -243,7 +154,7 @@
                                         <td>ARIA role should be appropriate for the element</td>
                                         <td>aria-allowed-role</td>
                                         <td>Best practice</td>
-                                        <td>16</td>
+                                        <td>15</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">3</th>
@@ -257,7 +168,7 @@
                                         <td>Deprecated ARIA roles must not be used</td>
                                         <td>aria-deprecated-role</td>
                                         <td>WCAG 2 Level A, WCAG 4.1.2</td>
-                                        <td>16</td>
+                                        <td>15</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">5</th>
@@ -278,14 +189,14 @@
                                         <td>Required ARIA attributes must be provided</td>
                                         <td>aria-required-attr</td>
                                         <td>WCAG 2 Level A, WCAG 4.1.2</td>
-                                        <td>16</td>
+                                        <td>15</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">8</th>
                                         <td>ARIA roles used must conform to valid values</td>
                                         <td>aria-roles</td>
                                         <td>WCAG 2 Level A, WCAG 4.1.2</td>
-                                        <td>16</td>
+                                        <td>15</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">9</th>
@@ -306,7 +217,7 @@
                                         <td>Inline text spacing must be adjustable with custom stylesheets</td>
                                         <td>avoid-inline-spacing</td>
                                         <td>WCAG 2.1 Level AA, WCAG 1.4.1.2</td>
-                                        <td>5</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">12</th>
@@ -320,7 +231,7 @@
                                         <td>Elements must meet minimum color contrast ratio thresholds</td>
                                         <td>color-contrast</td>
                                         <td>WCAG 2 Level AA, WCAG 1.4.3</td>
-                                        <td>73</td>
+                                        <td>78</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">14</th>
@@ -348,7 +259,7 @@
                                         <td>Form field must not have multiple label elements</td>
                                         <td>form-field-multiple-labels</td>
                                         <td>WCAG 2 Level A, WCAG 3.3.2</td>
-                                        <td>2</td>
+                                        <td>3</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">18</th>
@@ -411,7 +322,7 @@
                                         <td>Form elements should have a visible label</td>
                                         <td>label-title-only</td>
                                         <td>Best practice</td>
-                                        <td>2</td>
+                                        <td>3</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">27</th>
@@ -481,7 +392,7 @@
                                         <td>Landmarks should have a unique role or role&#x2F;label&#x2F;title (i.e. accessible name) combination</td>
                                         <td>landmark-unique</td>
                                         <td>Best practice</td>
-                                        <td>14</td>
+                                        <td>15</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">37</th>
@@ -530,7 +441,7 @@
                                         <td>Interactive controls must not be nested</td>
                                         <td>nested-interactive</td>
                                         <td>WCAG 2 Level A, WCAG 4.1.2</td>
-                                        <td>7</td>
+                                        <td>256</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">44</th>
@@ -551,14 +462,14 @@
                                         <td>All page content should be contained by landmarks</td>
                                         <td>region</td>
                                         <td>Best practice</td>
-                                        <td>356</td>
+                                        <td>612</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">47</th>
                                         <td>Select element must have an accessible name</td>
                                         <td>select-name</td>
                                         <td>WCAG 2 Level A, WCAG 4.1.2</td>
-                                        <td>1</td>
+                                        <td>2</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">48</th>
@@ -625,7 +536,7 @@
                                         <td>Elements must meet minimum color contrast ratio thresholds</td>
                                         <td>color-contrast</td>
                                         <td>WCAG 2 Level AA, WCAG 1.4.3</td>
-                                        <td>5</td>
+                                        <td>7</td>
                                     </tr>
                                     <tr>
                                         <th scope="row">2</th>
