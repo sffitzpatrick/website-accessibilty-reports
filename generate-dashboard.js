@@ -18,7 +18,7 @@ if (!REPORT_DIR || !fs.existsSync(REPORT_DIR)) {
 }
 
 const reportFiles = fs.readdirSync(REPORT_DIR).filter(file =>
-  file.endsWith('.html') || file.endsWith('.csv')
+  file.endsWith('.html') || file.endsWith('.csv') || file.endsWith('.json')
 );
 
 const now = format(new Date(), 'yyyy-MM-dd HH:mm:ss');
@@ -26,7 +26,7 @@ const now = format(new Date(), 'yyyy-MM-dd HH:mm:ss');
 const rows = reportFiles.map(file => {
   const href = file;
 
-  const type = file.endsWith('.csv') ? 'CSV' : 'HTML';
+  const type = file.endsWith('.csv') ? 'CSV' : file.endsWith('.json') ? 'JSON' : 'HTML';
   return `<tr>
     <td>${file}</td>
     <td>${type}</td>
