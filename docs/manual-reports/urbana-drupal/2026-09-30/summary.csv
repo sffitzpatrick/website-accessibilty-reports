@@ -1,5 +1,5 @@
 Page,Title,URL,Report Link,Total Violations,Total Passes,Critical,Serious,Moderate,Minor,Severity Score
-1,Homepage | Urbana Free Library,https://test-ufl.pantheonsite.io,./reports/1.html,2,50,0,4,0,0,12
+1,Homepage | Urbana Free Library,https://test-ufl.pantheonsite.io,./reports/1.html,1,50,0,1,0,0,3
 10,eBooks | Urbana Free Library,https://test-ufl.pantheonsite.io/ebooks-more/ebooks,./reports/10.html,0,45,0,0,0,0,0
 11,Audiobooks | Urbana Free Library,https://test-ufl.pantheonsite.io/ebooks-more/audiobooks,./reports/11.html,0,45,0,0,0,0,0
 12,Movies & TV Shows | Urbana Free Library,https://test-ufl.pantheonsite.io/ebooks-more/movies-tv,./reports/12.html,0,44,0,0,0,0,0
