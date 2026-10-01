@@ -1,0 +1,2 @@
+Page,URL,Title,Impact,Rule ID,Description,Help,Help URL,HTML Element
+1,https://pika.clearviewlibrary.org,Just a moment...,critical,meta-refresh,"Ensure <meta http-equiv=""refresh""> is not used for delayed refresh",Delayed refresh under 20 hours must not be used,https://dequeuniversity.com/rules/axe/4.10/meta-refresh?application=playwright,"<meta http-equiv=""refresh"" content=""360"">"
