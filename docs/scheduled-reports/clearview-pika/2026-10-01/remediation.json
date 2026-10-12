@@ -1,0 +1,48 @@
+{
+  "site": "clearview-pika",
+  "startUrl": "https://pika.clearviewlibrary.org/",
+  "datestamp": "2026-10-01",
+  "axeVersion": "4.10.3",
+  "pagesScanned": 1,
+  "totals": {
+    "violations": 1,
+    "needsReview": 0
+  },
+  "issues": [
+    {
+      "type": "violation",
+      "rule": "meta-refresh",
+      "impact": "critical",
+      "help": "Delayed refresh under 20 hours must not be used",
+      "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/meta-refresh?application=playwright",
+      "wcag": [
+        "wcag2a",
+        "wcag221"
+      ],
+      "selector": "meta[http-equiv=\"refresh\"]",
+      "html": "<meta http-equiv=\"refresh\" content=\"360\">",
+      "failureSummary": "Fix any of the following:\n  <meta> tag forces timed refresh of page (less than 20 hours)",
+      "checks": [
+        {
+          "kind": "any",
+          "id": "meta-refresh",
+          "message": "<meta> tag forces timed refresh of page (less than 20 hours)",
+          "data": {
+            "redirectDelay": 360
+          },
+          "relatedNodes": []
+        }
+      ],
+      "screenshot": null,
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "1",
+          "url": "https://pika.clearviewlibrary.org",
+          "title": "Just a moment..."
+        }
+      ]
+    }
+  ]
+}

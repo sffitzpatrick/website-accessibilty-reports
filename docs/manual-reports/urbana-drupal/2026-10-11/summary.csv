@@ -1,0 +1,501 @@
+Page,Title,URL,Report Link,Total Violations,Total Passes,Critical,Serious,Moderate,Minor,Severity Score
+1,Homepage | Urbana Free Library,https://urbanafreelibrary.org,./reports/1.html,0,53,0,0,0,0,0
+10,eBooks | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more,./reports/10.html,0,45,0,0,0,0,0
+100,Homework Help & Test Prep | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/4,./reports/100.html,0,51,0,0,0,0,0
+101,Job Hunting & Careers | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/5,./reports/101.html,0,51,0,0,0,0,0
+102,How-to & DIY | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/6,./reports/102.html,0,51,0,0,0,0,0
+103,Just for Kids | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/10,./reports/103.html,0,51,0,0,0,0,0
+104,The New York Times | Urbana Free Library,https://urbanafreelibrary.org/nyt,./reports/104.html,1,52,0,0,0,1,1
+105,Planning a Visit | Urbana Free Library,https://urbanafreelibrary.org/local-history/about/planning-visit,./reports/105.html,0,52,0,0,0,0,0
+106,Making a Donation | Urbana Free Library,https://urbanafreelibrary.org/local-history/about/making-donation,./reports/106.html,0,52,0,0,0,0,0
+107,How to Order Copies | Urbana Free Library,https://urbanafreelibrary.org/local-history/about/how-to-order,./reports/107.html,1,55,0,1,0,0,3
+108,Interlibrary Loan | Urbana Free Library,https://urbanafreelibrary.org/local-history/about/interlibrary-loan,./reports/108.html,0,52,0,0,0,0,0
+109,Harmful Language in Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/using-the-archives/harmful-language,./reports/109.html,0,52,0,0,0,0,0
+11,eBooks | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/ebooks,./reports/11.html,0,45,0,0,0,0,0
+110,Foundation | Urbana Free Library,https://urbanafreelibrary.org/about/foundation,./reports/110.html,0,45,0,0,0,0,0
+111,Friends of the Library | Urbana Free Library,https://urbanafreelibrary.org/about/friends,./reports/111.html,0,52,0,0,0,0,0
+112,The Urbana Free Library Awarded Grant to Digitize Notable Audio-Visual Materials | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/urbana-free-library-awarded-grant-digitize-notable-audio-visual-materials,./reports/112.html,0,52,0,0,0,0,0
+113,African American Baseball Teams in Champaign County | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/african-american-baseball-teams-champaign-county,./reports/113.html,0,52,0,0,0,0,0
+114,Round Barn Redux | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/round-barn-redux,./reports/114.html,0,52,0,0,0,0,0
+115,Family History B&B: the Blaisdells and the Buseys | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/family-history-bb-blaisdells-and-buseys,./reports/115.html,0,52,0,0,0,0,0
+116,The Voices of Selma: Community Protests and Collective Change | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/voices-selma-community-protests-and-collective-change,./reports/116.html,1,51,1,0,0,0,4
+117,Exploring a 1919 Yearbook | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/exploring-1919-yearbook,./reports/117.html,1,51,10,0,0,0,40
+118,El Informador de Champaign-Urbana: C-U's First Spanish-Language Newspaper | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/el-informador-de-champaign-urbana-c-us-first-spanish-language-newspaper,./reports/118.html,0,51,0,0,0,0,0
+119,The Illustrations of James F. Zumwalt | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/illustrations-james-f-zumwalt,./reports/119.html,0,52,0,0,0,0,0
+12,Audiobooks | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/audiobooks,./reports/12.html,0,45,0,0,0,0,0
+120,Organizing the Past: My Processing Practicum at the Champaign County Historical Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/organizing-past-my-processing-practicum-champaign-county-historical-archives,./reports/120.html,1,51,3,0,0,0,12
+121,The People Who Made 150 Years Possible: Francis Granger “Frank” Jaques | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/people-who-made-150-years-possible-francis-granger-frank-jaques,./reports/121.html,0,51,0,0,0,0,0
+122,The Federal Writers’ Project: American Guide Series | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/federal-writers-project-american-guide-series,./reports/122.html,1,51,1,0,0,0,4
+123,Farm Aid: 40 Years Later | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/farm-aid-40-years-later,./reports/123.html,0,52,0,0,0,0,0
+124,Bizarre Stories: UFO Sightings from the Past | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/bizarre-stories-ufo-sightings-past,./reports/124.html,2,52,9,9,0,0,63
+125,Preserving the Courier Negatives Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/preserving-courier-negatives-collection,./reports/125.html,0,51,0,0,0,0,0
+126,"Urbana Lincoln to Jumer’s to Royer: A Quick, Pictorial History | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/urbana-lincoln-jumers-royer-quick-pictorial-history,./reports/126.html,2,51,1,1,0,0,7
+127,Research Epiphanies: Discoveries Curating an Archives Exhibit | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/research-epiphanies-discoveries-curating-archives-exhibit,./reports/127.html,1,51,1,0,0,0,4
+128,Transcribing the Journals of J.O. Cunningham | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/transcribing-journals-jo-cunningham,./reports/128.html,0,52,0,0,0,0,0
+129,The People Who Made 150 Years Possible: Ida B. Hanes | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/people-who-made-150-years-possible-ida-b-hanes,./reports/129.html,0,51,0,0,0,0,0
+13,Movies & TV Shows | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/movies-tv,./reports/13.html,0,44,0,0,0,0,0
+130,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=0,./reports/130.html,0,52,0,0,0,0,0
+131,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=1,./reports/131.html,0,52,0,0,0,0,0
+132,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=2,./reports/132.html,0,53,0,0,0,0,0
+133,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=3,./reports/133.html,0,54,0,0,0,0,0
+134,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=4,./reports/134.html,0,53,0,0,0,0,0
+135,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=5,./reports/135.html,0,53,0,0,0,0,0
+136,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=6,./reports/136.html,0,53,0,0,0,0,0
+137,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=7,./reports/137.html,0,53,0,0,0,0,0
+138,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=8,./reports/138.html,0,53,0,0,0,0,0
+139,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=30,./reports/139.html,0,53,0,0,0,0,0
+14,Magazines | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/magazines,./reports/14.html,0,45,0,0,0,0,0
+140,Books & More | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/books-more,./reports/140.html,0,52,0,0,0,0,0
+141,Champaign County Web Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/web-archives,./reports/141.html,0,52,0,0,0,0,0
+142,Chanute Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/chanute-collection,./reports/142.html,0,52,0,0,0,0,0
+143,County Records | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/county-records,./reports/143.html,0,51,0,0,0,0,0
+144,Local History & Genealogy Digital Exhibits | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/digital-exhibits,./reports/144.html,0,52,0,0,0,0,0
+145,Maps | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/maps,./reports/145.html,0,52,0,0,0,0,0
+146,News-Gazette Archives Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/news-gazette-archives,./reports/146.html,0,52,0,0,0,0,0
+147,Oral Histories | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/oral-histories,./reports/147.html,0,52,0,0,0,0,0
+148,Photographs | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/photographs,./reports/148.html,0,52,0,0,0,0,0
+149,Special Collections | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/special-collections,./reports/149.html,0,51,0,0,0,0,0
+15,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn,./reports/15.html,0,44,0,0,0,0,0
+150,Summer Reading | Urbana Free Library,https://urbanafreelibrary.org/reading-programs/summer-reading26,./reports/150.html,1,52,1,0,0,0,4
+151,#1000BooksB4K - Growing Readers One Book at a Time | Urbana Free Library,https://urbanafreelibrary.org/using-library/reading-programs/1000-books,./reports/151.html,0,52,0,0,0,0,0
+152,2025 Partial Renovation Project: Frequently Asked Questions | Urbana Free Library,https://urbanafreelibrary.org/about/2025_partial_renovation,./reports/152.html,0,52,0,0,0,0,0
+153,Policies | Urbana Free Library,https://urbanafreelibrary.org/about-us/policies,./reports/153.html,0,51,0,0,0,0,0
+154,Board Meeting Minutes & Agendas | Urbana Free Library,https://urbanafreelibrary.org/about/board/board-meeting-files,./reports/154.html,0,52,0,0,0,0,0
+155,Committee Meetings | Urbana Free Library,https://urbanafreelibrary.org/about/board/committee-meeting-files,./reports/155.html,0,51,0,0,0,0,0
+156,Contact the Webmaster | Urbana Free Library,https://urbanafreelibrary.org/node/1193,./reports/156.html,0,55,0,0,0,0,0
+157,Making a Donation | Urbana Free Library,https://urbanafreelibrary.org/local-history/using-the-archives/making-donation,./reports/157.html,0,52,0,0,0,0,0
+158,Book Donation Guidelines | Urbana Free Library,https://urbanafreelibrary.org/about-us/friends/book-donation-guidelines,./reports/158.html,0,52,0,0,0,0,0
+159,Board Game Donation Guidelines | Urbana Free Library,https://urbanafreelibrary.org/donations/board_games,./reports/159.html,0,52,0,0,0,0,0
+16,Using the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history,./reports/16.html,0,51,0,0,0,0,0
+160,The Urbana Free Library Benefits: Full-Time Employees | Urbana Free Library,https://urbanafreelibrary.org/about-us/employment/full-time,./reports/160.html,0,51,0,0,0,0,0
+161,The Urbana Free Library Benefits: Part-Time Employees (20-28 hours/week) | Urbana Free Library,https://urbanafreelibrary.org/about-us/employment/part-time,./reports/161.html,0,51,0,0,0,0,0
+162,The Urbana Free Library Benefits: Hourly Employees (19 or fewer hours/week) | Urbana Free Library,https://urbanafreelibrary.org/about-us/employment/hourly,./reports/162.html,0,51,0,0,0,0,0
+163,Current Posted Vacancies | Urbana Free Library,https://urbanafreelibrary.org/current-posted-and-pooled-vacancies,./reports/163.html,0,52,0,0,0,0,0
+164,Opportunities for Students | Urbana Free Library,https://urbanafreelibrary.org/about-us/employment/opportunities-students,./reports/164.html,0,51,0,0,0,0,0
+165,Friends' Projects | Urbana Free Library,https://urbanafreelibrary.org/node/119,./reports/165.html,0,52,0,0,0,0,0
+166,Foundation Board | Urbana Free Library,https://urbanafreelibrary.org/about-us/foundation/foundation-board,./reports/166.html,0,52,0,0,0,0,0
+167,Ways to Give | Urbana Free Library,https://urbanafreelibrary.org/about-us/foundation/ways-to-give,./reports/167.html,0,52,0,0,0,0,0
+168,Cherry Alley Arch and Pavers | Urbana Free Library,https://urbanafreelibrary.org/about-us/foundation/cherry-alley-paver,./reports/168.html,0,52,0,0,0,0,0
+169,Margaret Frampton Urbana Library Fund | Urbana Free Library,https://urbanafreelibrary.org/about-us/foundation/margaret-frampton-fund,./reports/169.html,0,52,0,0,0,0,0
+17,Using the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/using-the-archives,./reports/17.html,0,51,0,0,0,0,0
+170,History of the 2005 Expansion | Urbana Free Library,https://urbanafreelibrary.org/about-us/foundation/history-2005-expansion,./reports/170.html,0,51,0,0,0,0,0
+171,Join the Foundation's email newsletter! | Urbana Free Library,https://urbanafreelibrary.org/foundationmailinglist,./reports/171.html,0,52,0,0,0,0,0
+172,Board Meeting Minutes & Agendas | Urbana Free Library,https://urbanafreelibrary.org/about/board/files,./reports/172.html,0,52,0,0,0,0,0
+173,Financial Reports | Urbana Free Library,https://urbanafreelibrary.org/about-us/your-right-to-know/financial-reports,./reports/173.html,0,51,0,0,0,0,0
+174,Planning Documents | Urbana Free Library,https://urbanafreelibrary.org/node/224,./reports/174.html,0,51,0,0,0,0,0
+175,Statistics | Urbana Free Library,https://urbanafreelibrary.org/about-us/your-right-to-know/statistics,./reports/175.html,0,51,0,0,0,0,0
+176,The Urbana Free Library Participates in the IHLS Library Crawl | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/urbana-free-library-participates-ihls-library-crawl,./reports/176.html,0,52,0,0,0,0,0
+177,Read + Ride with MTD During National Library Week 2026 | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/read-ride-mtd-during-national-library-week-2026,./reports/177.html,0,52,0,0,0,0,0
+178,Underground Railroad Exhibit Coming Soon to The Urbana Free Library | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/underground-railroad-exhibit-coming-soon-urbana-free-library,./reports/178.html,0,52,0,0,0,0,0
+179,"The Urbana Free Library Announces Temporary Closure, Updated Operating Hours, and Open House | Urbana Free Library",https://urbanafreelibrary.org/library-news/blog/urbana-free-library-announces-temporary-closure-updated-operating-hours-and-open,./reports/179.html,0,52,0,0,0,0,0
+18,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog,./reports/18.html,0,52,0,0,0,0,0
+180,Exciting News: Gift Match Challenge Returns! | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/exciting-news-gift-match-challenge-returns,./reports/180.html,0,52,0,0,0,0,0
+181,Public Hoopla Service Update | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/public-hoopla-service-update,./reports/181.html,0,52,0,0,0,0,0
+182,Kanopy Service Update | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/kanopy-service-update,./reports/182.html,0,52,0,0,0,0,0
+183,"One Card, Endless Possibilities: Celebrate Library Card Sign-Up Month this September | Urbana Free Library",https://urbanafreelibrary.org/library-news/blog/one-card-endless-possibilities-celebrate-library-card-sign-month-september,./reports/183.html,0,51,0,0,0,0,0
+184,Explore More Illinois + The Urbana Free Library | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/explore-more-illinois-urbana-free-library,./reports/184.html,0,52,0,0,0,0,0
+185,The Urbana Free Library Announces Partial First Floor Renovation | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/urbana-free-library-announces-partial-first-floor-renovation,./reports/185.html,0,52,0,0,0,0,0
+186,Board of Trustees Announces Appointment of New Library Executive Director | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/board-trustees-announces-appointment-new-library-executive-director,./reports/186.html,0,51,0,0,0,0,0
+187,Giant Desk Concert | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/giant-desk-concert,./reports/187.html,0,52,0,0,0,0,0
+188,The Urbana Free Library Foundation 2024 Annual Impact Report | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/urbana-free-library-foundation-2024-annual-impact-report,./reports/188.html,0,51,0,0,0,0,0
+189,National Library Week 2025 Celebration | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/national-library-week-2025-celebration,./reports/189.html,0,52,0,0,0,0,0
+19,Collections | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections,./reports/19.html,0,51,0,0,0,0,0
+190,National Library Week 2025 Celebration | Urbana Free Library,https://urbanafreelibrary.org/national_library_week,./reports/190.html,0,52,0,0,0,0,0
+191,Exciting News: Gift Match Challenge and Video! | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/exciting-news-gift-match-challenge-and-video,./reports/191.html,0,52,0,0,0,0,0
+192,Homepage | Urbana Free Library,https://urbanafreelibrary.org/?blm_aid=21596,./reports/192.html,0,53,0,0,0,0,0
+193,Lost in Time: 150th Anniversary Escape Room | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/lost-time-150th-anniversary-escape-room,./reports/193.html,0,52,0,0,0,0,0
+194,Artists Have Been Selected for The Urbana Free Library’s Artist-in-Residence Program | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/artists-have-been-selected-urbana-free-librarys-artist-residence-program,./reports/194.html,0,52,0,0,0,0,0
+195,What’s Your Story? Artist-in-Residence Program at The Urbana Free Library | Urbana Free Library,https://urbanafreelibrary.org/whats_your_story,./reports/195.html,0,52,0,0,0,0,0
+196,England Gardens to Debut at The Urbana Free Library in September | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/england-gardens-debut-urbana-free-library-september,./reports/196.html,0,52,0,0,0,0,0
+197,Library News | Urbana Free Library,https://urbanafreelibrary.org/about/news?page=0,./reports/197.html,0,53,0,0,0,0,0
+198,Library News | Urbana Free Library,https://urbanafreelibrary.org/about/news?page=1,./reports/198.html,0,53,0,0,0,0,0
+199,Grow Your Own Food | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections/seed-exchange/grow-your-own-food,./reports/199.html,0,52,0,0,0,0,0
+2,Donate | Urbana Free Library,https://urbanafreelibrary.org/donate,./reports/2.html,0,53,0,0,0,0,0
+20,Databases & Research Tools | Urbana Free Library,https://urbanafreelibrary.org/local-history/databases,./reports/20.html,0,51,0,0,0,0,0
+200,Library App | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections/library-app,./reports/200.html,1,51,0,2,0,0,6
+201,Contact | Urbana Free Library,https://urbanafreelibrary.org/about/contact,./reports/201.html,0,52,0,0,0,0,0
+202,Freedom of Information Act Request Form | Urbana Free Library,https://urbanafreelibrary.org/form/freedom-of-information-act-reque,./reports/202.html,0,54,0,0,0,0,0
+203,Suggest a Purchase | Urbana Free Library,https://urbanafreelibrary.org/node/1182,./reports/203.html,0,54,0,0,0,0,0
+204,Page not found | Urbana Free Library,https://urbanafreelibrary.org/books-more/getting-started-kanopy,./reports/204.html,0,51,0,0,0,0,0
+205,Classic Reference | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/1?page=1,./reports/205.html,0,52,0,0,0,0,0
+206,Magazine & Newspaper Articles | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/12?page=1,./reports/206.html,0,52,0,0,0,0,0
+207,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=All,./reports/207.html,0,44,0,0,0,0,0
+208,Cartoons | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/71,./reports/208.html,0,51,0,0,0,0,0
+209,Illustrations | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/72,./reports/209.html,0,51,0,0,0,0,0
+21,Events | Urbana Free Library,https://urbanafreelibrary.org/events,./reports/21.html,1,52,0,2,0,0,6
+210,Courier Newspaper | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/73,./reports/210.html,0,51,0,0,0,0,0
+211,Chanute Field Wings Available Online | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-field-wings-available-online,./reports/211.html,0,52,0,0,0,0,0
+212,The Fairy House: Joseph Royer’s Most Whimsical Design | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/fairy-house-joseph-royers-most-whimsical-design,./reports/212.html,0,51,0,0,0,0,0
+213,Buildings of Downtown Champaign 50 & 100 Years Ago | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/buildings-downtown-champaign-50-100-years-ago,./reports/213.html,0,51,0,0,0,0,0
+214,Tales from the Grocery Trade | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/tales-grocery-trade,./reports/214.html,0,51,0,0,0,0,0
+215,Digging into the Community Cookbook Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/digging-community-cookbook-collection,./reports/215.html,1,52,1,0,0,0,4
+216,The People Who Made 150 Years Possible: Nelle Carpenter | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/people-who-made-150-years-possible-nelle-carpenter,./reports/216.html,0,52,0,0,0,0,0
+217,Inside Archiving: Processing Unusual Collections | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/inside-archiving-processing-unusual-collections,./reports/217.html,1,52,6,0,0,0,24
+218,Old Newspaper Ads: 1874 Edition | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/old-newspaper-ads-1874-edition,./reports/218.html,0,51,0,0,0,0,0
+219,A Short History of The Knowlton & Bennett Building | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/short-history-knowlton-bennett-building,./reports/219.html,0,51,0,0,0,0,0
+22,Reading Programs | Urbana Free Library,https://urbanafreelibrary.org/events/reading-programs,./reports/22.html,0,51,0,0,0,0,0
+220,People Saving Places: Alice Novak | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/people-saving-places-alice-novak,./reports/220.html,0,52,0,0,0,0,0
+221,From the Shelves of the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/shelves-archives,./reports/221.html,0,52,0,0,0,0,0
+222,Uncovering LGBTQ Spaces in Champaign County | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/uncovering-lgbtq-spaces-champaign-county,./reports/222.html,0,52,0,0,0,0,0
+223,"Dr. Miriam Fuller: Innovator, Educator, and Author | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/dr-miriam-fuller-innovator-educator-and-author,./reports/223.html,2,51,4,4,0,0,28
+224,The Newly Digitized St. Joseph Record | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/newly-digitized-st-joseph-record,./reports/224.html,0,52,0,0,0,0,0
+225,Tracing the History of the Silvercreek Restaurant | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/tracing-history-silvercreek-restaurant,./reports/225.html,0,51,0,0,0,0,0
+226,Recent Additions to the Microfilm Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/recent-additions-microfilm-collection,./reports/226.html,0,51,0,0,0,0,0
+227,What's in Our Collection: Photographic Media Pt. 1 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/whats-our-collection-photographic-media-pt-1,./reports/227.html,0,52,0,0,0,0,0
+228,Identifying Hand-Made Paper in the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/identifying-hand-made-paper-archives,./reports/228.html,0,51,0,0,0,0,0
+229,We Need Your Help: the Unidentified Photograph Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/we-need-your-help-unidentified-photograph-collection,./reports/229.html,0,52,0,0,0,0,0
+23,Weekly Programs | Urbana Free Library,https://urbanafreelibrary.org/events/weekly-programs,./reports/23.html,0,51,0,0,0,0,0
+230,Historic Hairstyles | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/historic-hairstyles,./reports/230.html,0,51,0,0,0,0,0
+231,Winter Events in the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/winter-events-archives,./reports/231.html,1,52,0,5,0,0,15
+232,Library Newsletters | Urbana Free Library,https://urbanafreelibrary.org/about-us/newsletters,./reports/232.html,0,51,0,0,0,0,0
+233,Ads of Yesteryear: Champaign Daily News in 1919 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/ads-yesteryear-champaign-daily-news-1919,./reports/233.html,0,51,0,0,0,0,0
+234,Recipes from the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/recipes-archives,./reports/234.html,0,51,0,0,0,0,0
+235,“All Aboard!” Let’s Take a Two-Week Pullman Trip Out West in 1939 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/all-aboard-lets-take-two-week-pullman-trip-out-west-1939,./reports/235.html,0,51,0,0,0,0,0
+236,What is a Chautauqua? | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/what-chautauqua,./reports/236.html,0,51,0,0,0,0,0
+237,Newly Processed Collection: the Melvin C. Blobaum Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/newly-processed-collection-melvin-c-blobaum-collection,./reports/237.html,0,52,0,0,0,0,0
+238,The 100th Anniversary of Memorial Stadium | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/100th-anniversary-memorial-stadium,./reports/238.html,0,51,0,0,0,0,0
+239,The Champaign County Historical Archives Menu Collection: Menus Matter! | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/champaign-county-historical-archives-menu-collection-menus-matter,./reports/239.html,0,52,0,0,0,0,0
+24,Fairy Tale Ball | Urbana Free Library,https://urbanafreelibrary.org/events/fairy-tale-ball,./reports/24.html,1,51,1,0,0,0,4
+240,The Urbana Woman’s Club: Providing Newspaper-Worthy Charity Work & Social Events for 85 Years | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/urbana-womans-club-providing-newspaper-worthy-charity-work-social-events-85,./reports/240.html,0,52,0,0,0,0,0
+241,Recently Processed Collections: The Calling Cards Collection & The Stanton Township Society of Friends Records | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/recently-processed-collections-calling-cards-collection-stanton-township-society,./reports/241.html,0,52,0,0,0,0,0
+242,Unexpected Surprises in the Stephen Storch Photography Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/unexpected-surprises-stephen-storch-photography-collection,./reports/242.html,0,52,0,0,0,0,0
+243,Hot Air Balloons in Downtown Champaign-Urbana | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/hot-air-balloons-downtown-champaign-urbana,./reports/243.html,0,52,0,0,0,0,0
+244,Archives at Juneteenth | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/archives-juneteenth,./reports/244.html,0,52,0,0,0,0,0
+245,The Digital Preservation Practicum Experience | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/digital-preservation-practicum-experience,./reports/245.html,0,52,0,0,0,0,0
+246,A Local History of Juneteenth | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/local-history-juneteenth,./reports/246.html,0,51,0,0,0,0,0
+247,Digitizing the Cotillion Ball Images | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/digitizing-cotillion-ball-images,./reports/247.html,0,52,0,0,0,0,0
+248,The Runaway Husband | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/runaway-husband,./reports/248.html,0,53,0,0,0,0,0
+249,Down the Archives Rabbit Hole | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/down-archives-rabbit-hole,./reports/249.html,0,51,0,0,0,0,0
+25,Book Madness | Urbana Free Library,https://urbanafreelibrary.org/events/book-madness,./reports/25.html,1,51,2,0,0,0,8
+250,Exploring the Evolution of County Lines in Illinois | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/exploring-evolution-county-lines-illinois,./reports/250.html,0,52,0,0,0,0,0
+251,The Origins of Earth Day in Champaign County | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/origins-earth-day-champaign-county,./reports/251.html,0,52,0,0,0,0,0
+252,April Showers Bring May Flowers… and Preservation Risks | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/april-showers-bring-may-flowers-and-preservation-risks,./reports/252.html,0,52,0,0,0,0,0
+253,Using City Directories to Discover a Local Store's History | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/using-city-directories-discover-local-stores-history,./reports/253.html,0,51,0,0,0,0,0
+254,Introducing (Again!) “Window to the Past: The Everett C. Block Collection” | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/introducing-again-window-past-everett-c-block-collection,./reports/254.html,0,53,0,0,0,0,0
+255,The Archives' Collection of Newsletters | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/archives-collection-newsletters,./reports/255.html,0,51,0,0,0,0,0
+256,Extra! Extra! A New Exhibit at the Archives! | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/extra-extra-new-exhibit-archives,./reports/256.html,0,52,0,0,0,0,0
+257,Food Ads of the 1950s | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/food-ads-1950s,./reports/257.html,0,51,0,0,0,0,0
+258,Urbana's First First Methodist Church: A Brief History | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/urbanas-first-first-methodist-church-brief-history,./reports/258.html,0,52,0,0,0,0,0
+259,Remembering David Monk | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/remembering-david-monk,./reports/259.html,0,51,0,0,0,0,0
+26,About | Urbana Free Library,https://urbanafreelibrary.org/about-us,./reports/26.html,0,52,0,0,0,0,0
+260,Finding the Fultons Part 3 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/finding-fultons-part-3,./reports/260.html,0,52,0,0,0,0,0
+261,The Stephen Storch Photography Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/stephen-storch-photography-collection,./reports/261.html,0,51,0,0,0,0,0
+262,Finding the Fultons Part 2 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/finding-fultons-part-2,./reports/262.html,0,52,0,0,0,0,0
+263,The Lewis Family | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/lewis-family,./reports/263.html,0,51,0,0,0,0,0
+264,Five Generations of Women in One Photograph | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/five-generations-women-one-photograph,./reports/264.html,0,51,0,0,0,0,0
+265,Finding the Fultons Part 1 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/finding-fultons-part-1,./reports/265.html,0,51,0,0,0,0,0
+266,The Secret History of Squirrels | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/secret-history-squirrels,./reports/266.html,0,52,0,0,0,0,0
+267,Mapping Champaign County: The Legacy of Alexander Bowman | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mapping-champaign-county-legacy-alexander-bowman,./reports/267.html,0,52,0,0,0,0,0
+268,Chanute's “Ole-Farts” Club and the Retiree Activities Club | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanutes-ole-farts-club-and-retiree-activities-club,./reports/268.html,0,52,0,0,0,0,0
+269,Remote Requests in the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/remote-requests-archives,./reports/269.html,0,52,0,0,0,0,0
+27,Bids and RFPs | Urbana Free Library,https://urbanafreelibrary.org/about-us/bids-rfps,./reports/27.html,0,52,0,0,0,0,0
+270,Newly Processed Collections: Boneyard Creek | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/newly-processed-collections-boneyard-creek,./reports/270.html,0,52,0,0,0,0,0
+271,Mahomet Pioneer: Stephen C. Abbott | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mahomet-pioneer-stephen-c-abbott,./reports/271.html,0,52,0,0,0,0,0
+272,Juneteenth Celebrations | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/juneteenth-celebrations,./reports/272.html,0,52,0,0,0,0,0
+273,Dining at the Chanute Air Force Base | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/dining-chanute-air-force-base,./reports/273.html,0,52,0,0,0,0,0
+274,The General is a Lady! Commanding Officer Norma E. Brown | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/general-lady-commanding-officer-norma-e-brown,./reports/274.html,0,51,0,0,0,0,0
+275,Documenting Land Use Changes Through Aerial Photographs | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/documenting-land-use-changes-through-aerial-photographs,./reports/275.html,0,51,0,0,0,0,0
+276,Tread Carefully | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/tread-carefully,./reports/276.html,0,51,0,0,0,0,0
+277,“More Housewives Should Fly:” Women in Aviation and the Organization That Supports Them | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/more-housewives-should-fly-women-aviation-and-organization-supports-them,./reports/277.html,0,52,0,0,0,0,0
+278,It's Syllabus Day! Instructors and Students at the NCO Leadership School | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/its-syllabus-day-instructors-and-students-nco-leadership-school,./reports/278.html,0,52,0,0,0,0,0
+279,Chanute Snapshot: A Look at 1972 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-snapshot-look-1972,./reports/279.html,0,52,0,0,0,0,0
+28,Board Members | Urbana Free Library,https://urbanafreelibrary.org/about-us/your-right-to-know/board-members,./reports/28.html,1,52,0,1,0,0,3
+280,Chanute Air Force Base’s Resident Clothing Historian: Master Sergeant Gary T. Alstrand | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-air-force-bases-resident-clothing-historian-master-sergeant-gary-t,./reports/280.html,0,51,0,0,0,0,0
+281,"Illinois Times, a Newspaper for the Black C-U Community | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/illinois-times-newspaper-black-c-u-community,./reports/281.html,0,52,0,0,0,0,0
+282,"Patches, Patches, and Patches: Processing the Chanute Heritage Committee Collection | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/patches-patches-and-patches-processing-chanute-heritage-committee-collection,./reports/282.html,0,52,0,0,0,0,0
+283,Grateful Dead Descend on Assembly Hall | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/grateful-dead-descend-assembly-hall,./reports/283.html,0,52,0,0,0,0,0
+284,Alberta Claire: The Girl from Wyoming | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/alberta-claire-girl-wyoming,./reports/284.html,0,51,0,0,0,0,0
+285,WWII Office of Price Administration Tokens | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/wwii-office-price-administration-tokens,./reports/285.html,0,52,0,0,0,0,0
+286,Letters from Home: The Clyde O. McKinney Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/letters-home-clyde-o-mckinney-collection,./reports/286.html,0,52,0,0,0,0,0
+287,"Where on Earth in Champaign County: Township Numbers, Ranges, and Directions | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/where-earth-champaign-county-township-numbers-ranges-and-directions,./reports/287.html,0,51,0,0,0,0,0
+288,Huey's Store: What's Not on the Shelves...Is on the Floor | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/hueys-store-whats-not-shelvesis-floor,./reports/288.html,0,51,0,0,0,0,0
+289,Documenting the Chanute Experience: The Collection of Leo W. Streff | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/documenting-chanute-experience-collection-leo-w-streff,./reports/289.html,0,51,0,0,0,0,0
+29,Contact | Urbana Free Library,https://urbanafreelibrary.org/about-us/contact,./reports/29.html,0,52,0,0,0,0,0
+290,News-Gazette Collection Update | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/news-gazette-collection-update,./reports/290.html,0,52,0,0,0,0,0
+291,Holiday Gift Guide | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/holiday-gift-guide,./reports/291.html,0,51,0,0,0,0,0
+292,Exploring Title Abstracts | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/exploring-title-abstracts,./reports/292.html,0,52,0,0,0,0,0
+293,How to “Fun” Your Way Around Chanute: Chanute’s Free Time Recreation Magazine | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/how-fun-your-way-around-chanute-chanutes-free-time-recreation-magazine,./reports/293.html,0,52,0,0,0,0,0
+294,Photographs on View at the Tolono Public Library | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/photographs-view-tolono-public-library,./reports/294.html,0,51,0,0,0,0,0
+295,PACA Digitization Project | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/paca-digitization-project,./reports/295.html,0,52,0,0,0,0,0
+296,New Flickr Album: Champaign County Fires | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/new-flickr-album-champaign-county-fires,./reports/296.html,0,52,0,0,0,0,0
+297,Beyond Flight: Chanute Air Force Base Hospital 1931-1933 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/beyond-flight-chanute-air-force-base-hospital-1931-1933,./reports/297.html,0,51,0,0,0,0,0
+298,Latinx Resources in the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/latinx-resources-archives,./reports/298.html,0,52,0,0,0,0,0
+299,The Life of a Rural Midwestern Woman | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/life-rural-midwestern-woman,./reports/299.html,0,52,0,0,0,0,0
+3,Library Cards | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-cards,./reports/3.html,0,52,0,0,0,0,0
+30,Donations | Urbana Free Library,https://urbanafreelibrary.org/donations,./reports/30.html,0,52,0,0,0,0,0
+300,Finding the Right Home for a Recent Donation | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/finding-right-home-recent-donation,./reports/300.html,0,52,0,0,0,0,0
+301,Chanute Spotlight: Charles M. Leonard | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-charles-m-leonard,./reports/301.html,0,51,0,0,0,0,0
+302,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=9,./reports/302.html,0,54,0,0,0,0,0
+303,Monument Company Records: Another Primary Source for Cemetery Research | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/monument-company-records-another-primary-source-cemetery-research,./reports/303.html,0,52,0,0,0,0,0
+304,Weather in Champaign County | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/weather-champaign-county,./reports/304.html,0,52,0,0,0,0,0
+305,Telephone history in C-U and the women running the boards | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/telephone-history-c-u-and-women-running-boards,./reports/305.html,0,52,0,0,0,0,0
+306,A Look Back at the New Chanute Youth Center | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/look-back-new-chanute-youth-center,./reports/306.html,0,52,0,0,0,0,0
+307,Unexpected Books in the Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/unexpected-books-archives,./reports/307.html,0,52,0,0,0,0,0
+308,The Man Himself: Octave Chanute | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/man-himself-octave-chanute,./reports/308.html,0,52,0,0,0,0,0
+309,Medicinal Advertisements | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/medicinal-advertisements,./reports/309.html,0,51,0,0,0,0,0
+31,Employment | Urbana Free Library,https://urbanafreelibrary.org/about-us/employment,./reports/31.html,0,52,0,0,0,0,0
+310,Where's Walter? Searching for Clues in Obituaries | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/wheres-walter-searching-clues-obituaries,./reports/310.html,0,52,0,0,0,0,0
+311,A Winter Treat for the Summer Heat | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/winter-treat-summer-heat,./reports/311.html,0,52,0,0,0,0,0
+312,Enjoy Your Stay! A Look at the Chanute Suites | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/enjoy-your-stay-look-chanute-suites,./reports/312.html,0,52,0,0,0,0,0
+313,"Cemetery, Funeral Home, and Death Records in Champaign County | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/cemetery-funeral-home-and-death-records-champaign-county,./reports/313.html,0,52,0,0,0,0,0
+314,21-Cent International Airmail Stamps Featuring Octave Chanute & His Biplane Hang Glider | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/21-cent-international-airmail-stamps-featuring-octave-chanute-his-biplane-hang,./reports/314.html,0,52,0,0,0,0,0
+315,"Dorothy ""Dottie"" Schroeder All-American Shortstop | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/dorothy-dottie-schroeder-all-american-shortstop,./reports/315.html,0,52,0,0,0,0,0
+316,Early Criminal Cases in Urbana | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/early-criminal-cases-urbana,./reports/316.html,0,51,0,0,0,0,0
+317,Champaign 2060 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/champaign-2060,./reports/317.html,0,51,0,0,0,0,0
+318,"Behind the Scenes: Collection Management, part 3 | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/behind-scenes-collection-management-part-3,./reports/318.html,1,51,0,1,0,0,3
+319,"Behind the Scenes: Collection Management, part 2 | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/behind-scenes-collection-management-part-2,./reports/319.html,0,52,0,0,0,0,0
+32,Hours | Urbana Free Library,https://urbanafreelibrary.org/about-us/hours,./reports/32.html,0,51,0,0,0,0,0
+320,Page not found | Urbana Free Library,https://urbanafreelibrary.org/blogs/2021/05/26/behind-scenes-collection-management-0,./reports/320.html,0,51,0,0,0,0,0
+321,Small Town Histories | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/small-town-histories,./reports/321.html,0,52,0,0,0,0,0
+322,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=10,./reports/322.html,0,53,0,0,0,0,0
+323,The Chanute Base Histories Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-base-histories-collection,./reports/323.html,0,52,0,0,0,0,0
+324,C-U's Historic Buildings and the Preservation and Conservation Association | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/c-us-historic-buildings-and-preservation-and-conservation-association,./reports/324.html,0,52,0,0,0,0,0
+325,Old Advertisements: Food Edition | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/old-advertisements-food-edition,./reports/325.html,1,52,0,1,0,0,3
+326,Air Power or Airpower? Chanute Air Force Base and the USAF Editorial Style Guide | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/air-power-or-airpower-chanute-air-force-base-and-usaf-editorial-style-guide,./reports/326.html,0,52,0,0,0,0,0
+327,From Tragedy to Attraction: Local Reactions to the Sinking of the Titanic | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/tragedy-attraction-local-reactions-sinking-titanic,./reports/327.html,0,52,0,0,0,0,0
+328,Behind the Scenes: Collection Management | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/behind-scenes-collection-management,./reports/328.html,0,52,0,0,0,0,0
+329,Historic Maple Grove | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/historic-maple-grove,./reports/329.html,0,52,0,0,0,0,0
+33,Friends of the Library | Urbana Free Library,https://urbanafreelibrary.org/about-us/friends,./reports/33.html,0,52,0,0,0,0,0
+330,Freedom Train Comes to Champaign | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/freedom-train-comes-champaign,./reports/330.html,0,52,0,0,0,0,0
+331,A Look Inside the Chanute POW/MIA Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/look-inside-chanute-powmia-collection,./reports/331.html,0,52,0,0,0,0,0
+332,International Women's Day: A Look at Working Women in CU | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/international-womens-day-look-working-women-cu,./reports/332.html,0,52,0,0,0,0,0
+333,The Map Collection at The Champaign County Historical Archives | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/map-collection-champaign-county-historical-archives,./reports/333.html,0,52,0,0,0,0,0
+334,Robert Allerton: the Man Behind the Gardens | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/robert-allerton-man-behind-gardens,./reports/334.html,0,52,0,0,0,0,0
+335,Champaign County Fair Association | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/champaign-county-fair-association,./reports/335.html,1,52,0,1,0,0,3
+336,A Reunion at Chanute | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/reunion-chanute,./reports/336.html,0,52,0,0,0,0,0
+337,Bettye Krolick's Contributions to Braille Music Transcription | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/bettye-krolicks-contributions-braille-music-transcription,./reports/337.html,0,52,0,0,0,0,0
+338,Dorothy Gertrude Bentley and the 1918 Flu | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/dorothy-gertrude-bentley-and-1918-flu,./reports/338.html,0,52,0,0,0,0,0
+339,Greetings from Chanute! The Envelope Art of Ladd Canney | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/greetings-chanute-envelope-art-ladd-canney,./reports/339.html,0,52,0,0,0,0,0
+34,Foundation | Urbana Free Library,https://urbanafreelibrary.org/about-us/foundation,./reports/34.html,0,45,0,0,0,0,0
+340,"Another Installment of ""Newspapers, Get Your Newspapers Here!"" | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/another-installment-newspapers-get-your-newspapers-here,./reports/340.html,0,52,0,0,0,0,0
+341,Newspapers! Get Your Newspapers Here! | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/newspapers-get-your-newspapers-here,./reports/341.html,0,52,0,0,0,0,0
+342,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=11,./reports/342.html,0,53,0,0,0,0,0
+343,In Memoriam: Robert K. McCandless (1928-2020) and Raymond Bial (1948-2021) | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/memoriam-robert-k-mccandless-1928-2020-and-raymond-bial-1948-2021,./reports/343.html,0,52,0,0,0,0,0
+344,The Battle of Seattle and Founding of the Urbana-Champaign Independent Media Center | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/battle-seattle-and-founding-urbana-champaign-independent-media-center,./reports/344.html,0,52,0,0,0,0,0
+345,Retiree Activities Program at Chanute Air Force Base | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/retiree-activities-program-chanute-air-force-base,./reports/345.html,0,52,0,0,0,0,0
+346,First commercial airline delivery of clothes | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/first-commercial-airline-delivery-clothes,./reports/346.html,0,52,0,0,0,0,0
+347,"Soldiers Monument in Mt. Hope Cemetery, Sidney, IL | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/soldiers-monument-mt-hope-cemetery-sidney-il,./reports/347.html,0,52,0,0,0,0,0
+348,Changing the Code on Campus Affairs | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/changing-code-campus-affairs,./reports/348.html,0,52,0,0,0,0,0
+349,Car Ads from 100 Years Ago | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/car-ads-100-years-ago,./reports/349.html,0,51,0,0,0,0,0
+35,Volunteer | Urbana Free Library,https://urbanafreelibrary.org/about-us/volunteer,./reports/35.html,1,52,0,0,0,1,1
+350,Chanute Spotlight: Mark A. Greene | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-mark-greene,./reports/350.html,0,51,0,0,0,0,0
+351,"Lincoln's ""Mad"" Couch | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/lincolns-mad-couch,./reports/351.html,1,52,0,1,0,0,3
+352,New Exhibit: “From Homemaking to Municipal Housekeeping: 20th Century Women’s Clubs in Champaign County” | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/new-exhibit-homemaking-municipal-housekeeping-20th-century-womens-clubs,./reports/352.html,0,52,0,0,0,0,0
+353,Uncovered Gravestones in Leal Park | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/uncovered-gravestones-leal-park,./reports/353.html,0,52,0,0,0,0,0
+354,Recently Processed: Orphan Train Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/recently-processed-orphan-train-collection,./reports/354.html,0,52,0,0,0,0,0
+355,Chanute Spotlight: Commanding Officer Fay R. Upthegrove | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-commanding-officer-fay-r-upthegrove,./reports/355.html,0,52,0,0,0,0,0
+356,Ride Down Memory Lane with C-U MTD | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/ride-down-memory-lane-c-u-mtd,./reports/356.html,0,51,0,0,0,0,0
+357,Pride Fest 2020: The Archives Looks Back at the LGBTQIA+ community in C-U | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/pride-fest-2020-archives-looks-back-lgbtqia-community-c-u,./reports/357.html,0,52,0,0,0,0,0
+358,Rantoul's Minuteman Missile Saved at the Last Minute | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/rantouls-minuteman-missile-saved-last-minute,./reports/358.html,0,52,0,0,0,0,0
+359,Superstitions of Early Illinois Settlers | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/superstitions-early-illinois-settlers,./reports/359.html,0,52,0,0,0,0,0
+36,Your Right to Know | Urbana Free Library,https://urbanafreelibrary.org/about-us/your-right-to-know,./reports/36.html,0,52,0,0,0,0,0
+360,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=12,./reports/360.html,0,53,0,0,0,0,0
+361,The Blue Norther of 1836 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/blue-norther-1836,./reports/361.html,0,51,0,0,0,0,0
+362,How Urbana Got a Hotel | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/how-urbana-got-hotel,./reports/362.html,0,51,0,0,0,0,0
+363,Spring 2013 Local History & Genealogy Workshop Series | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/spring-2013-local-history-genealogy-workshop-series,./reports/363.html,0,52,0,0,0,0,0
+364,But will it play in C-U? | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/will-it-play-c-u,./reports/364.html,0,51,0,0,0,0,0
+365,Go Illini! | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/go-illini,./reports/365.html,0,51,0,0,0,0,0
+366,Welcome! | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/welcome,./reports/366.html,0,52,0,0,0,0,0
+367,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=29,./reports/367.html,0,53,0,0,0,0,0
+368,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=22,./reports/368.html,0,53,0,0,0,0,0
+369,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=23,./reports/369.html,0,53,0,0,0,0,0
+37,Meeting Rooms | Urbana Free Library,https://urbanafreelibrary.org/node/138,./reports/37.html,0,52,0,0,0,0,0
+370,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=24,./reports/370.html,0,53,0,0,0,0,0
+371,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=25,./reports/371.html,0,53,0,0,0,0,0
+372,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=26,./reports/372.html,0,53,0,0,0,0,0
+373,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=27,./reports/373.html,0,53,0,0,0,0,0
+374,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=28,./reports/374.html,0,53,0,0,0,0,0
+375,Books & Journals | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/books-more/books-journals,./reports/375.html,0,52,0,0,0,0,0
+376,Directories | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/books-more/directories,./reports/376.html,0,52,0,0,0,0,0
+377,Local Organization Newsletter Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/books-more/local-newsletters,./reports/377.html,0,52,0,0,0,0,0
+378,Newspapers | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/books-more/newspapers,./reports/378.html,0,52,0,0,0,0,0
+379,School Yearbooks | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/books-more/yearbooks,./reports/379.html,0,52,0,0,0,0,0
+38,Library News | Urbana Free Library,https://urbanafreelibrary.org/about/news,./reports/38.html,0,53,0,0,0,0,0
+380,What's New in the Chanute Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/chanute-collection/whats-new,./reports/380.html,0,52,0,0,0,0,0
+381,Chanute Collection Finding Aids | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/chanute-collection/chanute-finding-aids,./reports/381.html,1,52,0,0,0,1,1
+382,Birth Records | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/county-records/birth-records,./reports/382.html,0,52,0,0,0,0,0
+383,Death Records | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/county-records/death-records,./reports/383.html,0,52,0,0,0,0,0
+384,Marriage Records | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/county-records/marriage-records,./reports/384.html,0,52,0,0,0,0,0
+385,Naturalization Records | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/county-records/naturalization-records,./reports/385.html,0,51,0,0,0,0,0
+386,Local History Collections | Urbana Free Library,https://urbanafreelibrary.org/local-history/collections/local-history,./reports/386.html,0,52,0,0,0,0,0
+387,"May 14, 2024 | Urbana Free Library",https://urbanafreelibrary.org/about/board/files/may-14-2024,./reports/387.html,0,51,0,0,0,0,0
+388,"January 09, 2024 | Urbana Free Library",https://urbanafreelibrary.org/about/board/files/january-09-2024,./reports/388.html,0,51,0,0,0,0,0
+389,"December 12, 2023 | Urbana Free Library",https://urbanafreelibrary.org/about/board/files/december-12-2023,./reports/389.html,0,51,0,0,0,0,0
+39,Seed Exchange | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections/seed-exchange,./reports/39.html,1,52,1,0,0,0,4
+390,"February 14, 2023 | Urbana Free Library",https://urbanafreelibrary.org/about/board/files/february-14-2023,./reports/390.html,0,51,0,0,0,0,0
+391,"March 08, 2022 | Urbana Free Library",https://urbanafreelibrary.org/about/board/files/march-08-2022,./reports/391.html,0,51,0,0,0,0,0
+392,"February 08, 2022 | Urbana Free Library",https://urbanafreelibrary.org/about/board/files/february-08-2022,./reports/392.html,0,51,0,0,0,0,0
+393,Audit Reports | Urbana Free Library,https://urbanafreelibrary.org/node/1413,./reports/393.html,0,51,0,0,0,0,0
+394,IHLS Library Crawl | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/75,./reports/394.html,0,51,0,0,0,0,0
+395,MTD | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/68,./reports/395.html,0,52,0,0,0,0,0
+396,Library | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/74,./reports/396.html,0,52,0,0,0,0,0
+397,Kanopy | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/70,./reports/397.html,0,52,0,0,0,0,0
+398,The Urbana Free Library | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/69,./reports/398.html,0,52,0,0,0,0,0
+399,Urbana Free Library | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/28,./reports/399.html,0,52,0,0,0,0,0
+4,Borrowing Information | Urbana Free Library,https://urbanafreelibrary.org/using-library/borrow-return,./reports/4.html,0,55,0,0,0,0,0
+40,Curbside Pickup | Urbana Free Library,https://urbanafreelibrary.org/using-library/services/curbside-pickup,./reports/40.html,0,52,0,0,0,0,0
+400,gardens | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/67,./reports/400.html,0,52,0,0,0,0,0
+401,Share Your Library Story! | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/share-your-library-story,./reports/401.html,0,51,0,0,0,0,0
+402,What's Your Story? Artist-In-Residence Program at The Urbana Free Library | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/whats-your-story-artist-residence-program-urbana-free-library,./reports/402.html,0,51,0,0,0,0,0
+403,"The Urbana Free Library Celebrates 150 Years of Serving the Community With a Birthday Party, Reading Programs, and More | Urbana Free Library",https://urbanafreelibrary.org/library-news/blog/urbana-free-library-celebrates-150-years-serving-community-birthday-party-reading,./reports/403.html,0,52,0,0,0,0,0
+404,Press Release for the Stephen Storch Photography Collection | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/press-release-stephen-storch-photography-collection,./reports/404.html,0,52,0,0,0,0,0
+405,The Urbana Free Library seeks new board members | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/urbana-free-library-seeks-new-board-members,./reports/405.html,0,52,0,0,0,0,0
+406,Archives Assistant – Hourly | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/archives-assistant-hourly,./reports/406.html,0,52,0,0,0,0,0
+407,The Friends of the Library Holiday Book Sale | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/friends-library-holiday-book-sale,./reports/407.html,0,51,0,0,0,0,0
+408,Early Voting for the 2022 General Election | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/early-voting-2022-general-election,./reports/408.html,0,51,0,0,0,0,0
+409,Circulation Clerk/Information Assistant – Full-time | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/circulation-clerkinformation-assistant-full-time,./reports/409.html,0,52,0,0,0,0,0
+41,Suggest a Purchase | Urbana Free Library,https://urbanafreelibrary.org/suggest-a-purchase,./reports/41.html,0,54,0,0,0,0,0
+410,The Urbana Free Library is seeking Request for Qualifications for Architectural Services | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/urbana-free-library-seeking-request-qualifications-architectural-services,./reports/410.html,0,52,0,0,0,0,0
+411,Call for Hygiene Donations | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/call-hygiene-donations,./reports/411.html,0,51,0,0,0,0,0
+412,September is Library Card Sign-Up Month | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/september-library-card-sign-month,./reports/412.html,0,51,0,0,0,0,0
+413,Books and More! Bundles | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/books-and-more-bundles,./reports/413.html,0,51,0,0,0,0,0
+414,Poems Across Urbana Sign Giveaway | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/poems-across-urbana-sign-giveaway,./reports/414.html,0,51,0,0,0,0,0
+415,Every paver has a story! | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/every-paver-has-story,./reports/415.html,0,52,0,0,0,0,0
+416,Daughters of the American Revolution Book Giveaway | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/daughters-american-revolution-book-giveaway,./reports/416.html,0,51,0,0,0,0,0
+417,Check out these titles for young adult readers! | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/check-out-these-titles-young-adult-readers,./reports/417.html,0,51,0,0,0,0,0
+418,Check out these new titles! | Urbana Free Library,https://urbanafreelibrary.org/library-news/blog/check-out-these-new-titles,./reports/418.html,0,51,0,0,0,0,0
+419,Classic Reference | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/1?page=0,./reports/419.html,0,52,0,0,0,0,0
+42,Accessibility | Urbana Free Library,https://urbanafreelibrary.org/accessibility,./reports/42.html,0,52,0,0,0,0,0
+420,Magazine & Newspaper Articles | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/12?page=0,./reports/420.html,0,52,0,0,0,0,0
+421,The Old Homer Park | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/old-homer-park,./reports/421.html,0,52,0,0,0,0,0
+422,Planning a Visit | Urbana Free Library,https://urbanafreelibrary.org/local-history/using-the-archives/planning-visit,./reports/422.html,0,52,0,0,0,0,0
+423,Restaurants | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/60,./reports/423.html,0,51,0,0,0,0,0
+424,Urbana | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/27,./reports/424.html,0,51,0,0,0,0,0
+425,Architecture | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/61,./reports/425.html,0,51,0,0,0,0,0
+426,Sandborn | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/62,./reports/426.html,0,51,0,0,0,0,0
+427,Finding Photographs | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/finding-photographs,./reports/427.html,0,52,0,0,0,0,0
+428,Hair | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/57,./reports/428.html,0,51,0,0,0,0,0
+429,hairstyles | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/58,./reports/429.html,0,51,0,0,0,0,0
+43,Brand Guide and Logos | Urbana Free Library,https://urbanafreelibrary.org/brand-guide-logos,./reports/43.html,0,51,0,0,0,0,0
+430,fashion | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/59,./reports/430.html,0,51,0,0,0,0,0
+431,Local history | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/18,./reports/431.html,0,54,0,0,0,0,0
+432,entertainment | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/56,./reports/432.html,0,51,0,0,0,0,0
+433,Hot air balloons | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/55,./reports/433.html,0,51,0,0,0,0,0
+434,Newspapers | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/52,./reports/434.html,0,53,0,0,0,0,0
+435,Photographs | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/53,./reports/435.html,0,53,0,0,0,0,0
+436,Cemeteries | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/39,./reports/436.html,0,51,0,0,0,0,0
+437,Burial Places | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/40,./reports/437.html,0,51,0,0,0,0,0
+438,Woodlawn Cemetery | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/41,./reports/438.html,0,51,0,0,0,0,0
+439,Lynn Grove Cemetery | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/42,./reports/439.html,0,51,0,0,0,0,0
+44,Floor Plan | Urbana Free Library,https://urbanafreelibrary.org/about-us/floor-plan,./reports/44.html,0,51,0,0,0,0,0
+440,Stephen Storch | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/43,./reports/440.html,0,51,0,0,0,0,0
+441,Photography | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/44,./reports/441.html,0,51,0,0,0,0,0
+442,Digitization | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/45,./reports/442.html,0,51,0,0,0,0,0
+443,Photographic Negatives | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/46,./reports/443.html,0,51,0,0,0,0,0
+444,The Cotillion Ball | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/47,./reports/444.html,0,51,0,0,0,0,0
+445,Phi Beta Sigma Fraternity | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/48,./reports/445.html,0,51,0,0,0,0,0
+446,Zeta Phi Beta Sorority | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/49,./reports/446.html,0,51,0,0,0,0,0
+447,Genealogy | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/31,./reports/447.html,0,51,0,0,0,0,0
+448,Squirrels | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/29,./reports/448.html,0,51,0,0,0,0,0
+449,University of Illinois | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/30,./reports/449.html,0,51,0,0,0,0,0
+45,Freedom of Information Act | Urbana Free Library,https://urbanafreelibrary.org/foia,./reports/45.html,0,52,0,0,0,0,0
+450,Maps | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/23,./reports/450.html,0,51,0,0,0,0,0
+451,Boneyard Creek | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/21,./reports/451.html,0,51,0,0,0,0,0
+452,flooding | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/22,./reports/452.html,0,51,0,0,0,0,0
+453,Mahomet | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/19,./reports/453.html,0,51,0,0,0,0,0
+454,early pioneers | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/20,./reports/454.html,0,51,0,0,0,0,0
+455,Page not found | Urbana Free Library,https://urbanafreelibrary.org/local-history-genealogy/news-gazette-archives-collection,./reports/455.html,0,51,0,0,0,0,0
+456,Page not found | Urbana Free Library,https://urbanafreelibrary.org/local-history-genealogy/how-order-copies,./reports/456.html,0,51,0,0,0,0,0
+457,Page not found | Urbana Free Library,https://urbanafreelibrary.org/blogs/2021/05/07/c-us-historic-buildings-and-preservation-and-conservation-association,./reports/457.html,0,51,0,0,0,0,0
+458,Page not found | Urbana Free Library,https://urbanafreelibrary.org/blogs/2021/04/25/ever-wonder-about-history-your-home,./reports/458.html,0,51,0,0,0,0,0
+459,Page not found | Urbana Free Library,https://urbanafreelibrary.org/local-history-genealogy/databases-research-tools,./reports/459.html,0,51,0,0,0,0,0
+46,Privacy Statement | Urbana Free Library,https://urbanafreelibrary.org/privacy,./reports/46.html,0,51,0,0,0,0,0
+460,Household Products from 100 Years Ago | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/household-products-100-years-ago,./reports/460.html,0,51,0,0,0,0,0
+461,From Mansion to Medicine | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mansion-medicine,./reports/461.html,0,52,0,0,0,0,0
+462,Chanute Spotlight: The Trade Winds Service Club | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-trade-winds-service-club,./reports/462.html,0,53,0,0,0,0,0
+463,Chanute Spotlight: Joseph C. Gomez and the Chandelle | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-joseph-c-gomez-and-chandelle,./reports/463.html,0,51,0,0,0,0,0
+464,Greetings from Chanute!: Remembering Lucy Jane Goff (1909-2002) | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/greetings-chanute-remembering-lucy-jane-goff-1909-2002,./reports/464.html,0,52,0,0,0,0,0
+465,"Summer of Baseball, 1895 edition | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/summer-baseball-1895-edition,./reports/465.html,0,52,0,0,0,0,0
+466,Greetings from Chanute!: Donald O. Weckhorst and Non-Verbal Communication | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/greetings-chanute-donald-o-weckhorst-and-non-verbal-communication,./reports/466.html,0,53,0,0,0,0,0
+467,Greetings from Chanute!: Thank You Donald O. Weckhorst | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/greetings-chanute-thank-you-donald-o-weckhorst,./reports/467.html,0,51,0,0,0,0,0
+468,As Seen in the Courier: Squirrel Chases Man | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/seen-courier-squirrel-chases-man,./reports/468.html,0,52,0,0,0,0,0
+469,Anyone seen an Alligator? | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/anyone-seen-alligator,./reports/469.html,0,51,0,0,0,0,0
+47,Library Cards | Urbana Free Library,https://urbanafreelibrary.org/using-library,./reports/47.html,0,52,0,0,0,0,0
+470,Intern Reflection: Working with the Chanute Collection | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/intern-reflection-working-chanute-collection,./reports/470.html,0,52,0,0,0,0,0
+471,From the Mailbox: How did Race Street Get its Name? (Otherwise known as a Day in an Archivist's Life) | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mailbox-how-did-race-street-get-its-name-otherwise-known-day-archivists-life,./reports/471.html,0,52,0,0,0,0,0
+472,Update! Digitally Accessible Chanute Collection Finding Aids | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/update-digitally-accessible-chanute-collection-finding-aids,./reports/472.html,0,52,0,0,0,0,0
+473,"Chanute Spotlight: Octave Chanute, “The God-father of Aviation” | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-octave-chanute-god-father-aviation,./reports/473.html,0,51,0,0,0,0,0
+474,FREE Database Trial for 'Find My Past' | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/free-database-trial-find-my-past,./reports/474.html,0,51,0,0,0,0,0
+475,Tuskegee Airmen: Colonel George “Spanky” Roberts | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/tuskegee-airmen-colonel-george-spanky-roberts,./reports/475.html,0,51,0,0,0,0,0
+476,Digital Sanborn Maps | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/digital-sanborn-maps,./reports/476.html,0,52,0,0,0,0,0
+477,Greetings from Chanute!: Maharishi Yogi’s Attempt to Buy Chanute Air Force Base | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/greetings-chanute-maharishi-yogis-attempt-buy-chanute-air-force-base,./reports/477.html,0,51,0,0,0,0,0
+478,The Illinois Blue Books | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/illinois-blue-books,./reports/478.html,0,52,0,0,0,0,0
+479,Prairie State Games: A Display of Athletic Talent | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/prairie-state-games-display-athletic-talent,./reports/479.html,0,52,0,0,0,0,0
+48,Home Delivery | Urbana Free Library,https://urbanafreelibrary.org/using-library/services/home-delivery,./reports/48.html,0,52,0,0,0,0,0
+480,Chanute Spotlight: Major General Edwin W. Robertson II | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-major-general-edwin-w-robertson-ii,./reports/480.html,0,52,0,0,0,0,0
+481,From the Mailbox: The Underground Railroad in Champaign County | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mailbox-underground-railroad-champaign-county,./reports/481.html,0,52,0,0,0,0,0
+482,Illinois Central Railroad Employment Cards | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/illinois-central-railroad-employment-cards,./reports/482.html,0,52,0,0,0,0,0
+483,Local History & Genealogy Blog | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog?page=13,./reports/483.html,0,53,0,0,0,0,0
+484,Resistance and Dissent at Chanute | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/resistance-and-dissent-chanute,./reports/484.html,0,51,0,0,0,0,0
+485,"Recently Processed: Illinois Central Railroad Company Records, 1920-1972 | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/recently-processed-illinois-central-railroad-company-records-1920-1972,./reports/485.html,0,52,0,0,0,0,0
+486,How Can You Find a Farm's Name? | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/how-can-you-find-farms-name,./reports/486.html,0,52,0,0,0,0,0
+487,Interesting Urbana City Codes from 1898 | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/interesting-urbana-city-codes-1898,./reports/487.html,0,52,0,0,0,0,0
+488,From the Collection: The Counties of Great Britain - A Tudor Atlas | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/collection-counties-great-britain-tudor-atlas,./reports/488.html,0,52,0,0,0,0,0
+489,Halloween at Chanute | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/halloween-chanute,./reports/489.html,0,52,0,0,0,0,0
+49,Books and More! Bundles | Urbana Free Library,https://urbanafreelibrary.org/node/1179,./reports/49.html,0,56,0,0,0,0,0
+490,From the Mailbox: the Original Alleys of Urbana | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mailbox-original-alleys-urbana,./reports/490.html,0,52,0,0,0,0,0
+491,Chanute Air Force Base Closure: 26 Year Anniversary | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/chanute-air-force-base-closure-26-year-anniversary,./reports/491.html,1,52,0,1,0,0,3
+492,The Barling Bomber | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/barling-bomber,./reports/492.html,0,52,0,0,0,0,0
+493,Cohen Family: Sol Cohen | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/cohen-family-sol-cohen,./reports/493.html,0,52,0,0,0,0,0
+494,Cohen Family: Julius Cohen | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/cohen-family-julius-cohen,./reports/494.html,0,52,0,0,0,0,0
+495,Cohen Family: Sidney Cohen | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/cohen-family-sidney-cohen,./reports/495.html,0,52,0,0,0,0,0
+496,The Cohen Family | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/cohen-family,./reports/496.html,1,52,0,1,0,0,3
+497,"Chanute Spotlight: Daniel L. Pearl, The Man with the Camera | Urbana Free Library",https://urbanafreelibrary.org/local-history/blog/chanute-spotlight-daniel-l-pearl-man-camera,./reports/497.html,0,52,0,0,0,0,0
+498,From the Mailbox: Overia Barringer & the Freedom Celebration Parade | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/mailbox-overia-barringer-freedom-celebration-parade,./reports/498.html,0,52,0,0,0,0,0
+499,Jeff Austin: A Mountain Spring of Inspiration (1974-2019) | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/jeff-austin-mountain-spring-inspiration-1974-2019,./reports/499.html,0,52,0,0,0,0,0
+5,Collections | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections,./reports/5.html,0,52,0,0,0,0,0
+50,Books and More! Bundles | Urbana Free Library,https://urbanafreelibrary.org/books_bundles,./reports/50.html,0,56,0,0,0,0,0
+500,The Downtown Champaign Mall | Urbana Free Library,https://urbanafreelibrary.org/local-history/blog/downtown-champaign-mall,./reports/500.html,0,52,0,0,0,0,0
+51,Personalized Reading List | Urbana Free Library,https://urbanafreelibrary.org/personalized-reading-list,./reports/51.html,0,54,0,0,0,0,0
+52,Video Game Collection | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections/video-game,./reports/52.html,0,52,0,0,0,0,0
+53,Kanopy | Urbana Free Library,https://urbanafreelibrary.org/download-streaming/kanopy,./reports/53.html,0,51,0,0,0,0,0
+54,Movies | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections/movies,./reports/54.html,0,51,0,0,0,0,0
+55,Music | Urbana Free Library,https://urbanafreelibrary.org/using-library/collections/music,./reports/55.html,0,51,0,0,0,0,0
+56,"Chromebook, Laptop, and Tablet-Lending Service | Urbana Free Library",https://urbanafreelibrary.org/using-library/services/computer-internet/laptops,./reports/56.html,0,52,0,0,0,0,0
+57,Notaries Public | Urbana Free Library,https://urbanafreelibrary.org/using-library/services/notaries-public,./reports/57.html,0,51,0,0,0,0,0
+58,"Print, Copy, and Fax | Urbana Free Library",https://urbanafreelibrary.org/using-library/services/copier-fax,./reports/58.html,0,52,0,0,0,0,0
+59,Meeting Rooms | Urbana Free Library,https://urbanafreelibrary.org/using-library/services/meeting-rooms,./reports/59.html,0,52,0,0,0,0,0
+6,Services | Urbana Free Library,https://urbanafreelibrary.org/using-library/services,./reports/6.html,0,51,0,0,0,0,0
+60,Computers & Internet | Urbana Free Library,https://urbanafreelibrary.org/using-library/services/computer-internet,./reports/60.html,0,52,0,0,0,0,0
+61,Children's Developmental Toys | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/childrens-developmental-toys,./reports/61.html,0,52,0,0,0,0,0
+62,Music Equipment Collection | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/music-collection,./reports/62.html,0,52,0,0,0,0,0
+63,Productivity Collection | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/productivity-collection,./reports/63.html,0,52,0,0,0,0,0
+64,Crafts Collection | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/craft-collection,./reports/64.html,0,52,0,0,0,0,0
+65,Kits | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/hands-on-kits,./reports/65.html,0,52,0,0,0,0,0
+66,3D Science Collection | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/3d-science,./reports/66.html,0,52,0,0,0,0,0
+67,Floor Puzzles | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/floor-puzzles,./reports/67.html,0,52,0,0,0,0,0
+68,Board Games | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/board-games,./reports/68.html,0,52,0,0,0,0,0
+69,Children's Board Games | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/child-board-games,./reports/69.html,1,52,1,0,0,0,4
+7,Library of Things | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things,./reports/7.html,0,51,0,0,0,0,0
+70,Phonics Kits | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/phonics-kits,./reports/70.html,0,52,0,0,0,0,0
+71,Memory Kits | Urbana Free Library,https://urbanafreelibrary.org/using-library/library-things/memory-kits,./reports/71.html,0,52,0,0,0,0,0
+72,eBooks | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/14,./reports/72.html,0,52,0,0,0,0,0
+73,Comics Plus! | Urbana Free Library,https://urbanafreelibrary.org/download-streaming/comics-plus,./reports/73.html,0,51,0,0,0,0,0
+74,Audiobooks | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/15,./reports/74.html,0,52,0,0,0,0,0
+75,Magazines | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/17,./reports/75.html,0,52,0,0,0,0,0
+76,Libby app | Urbana Free Library,https://urbanafreelibrary.org/download-streaming/libby-app,./reports/76.html,0,52,0,0,0,0,0
+77,Tumblebooks | Urbana Free Library,https://urbanafreelibrary.org/download-streaming/tumblebooks,./reports/77.html,0,51,0,0,0,0,0
+78,Movies & TV Shows | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/13,./reports/78.html,0,52,0,0,0,0,0
+79,Kanopy & Kanopy Kids | Urbana Free Library,https://urbanafreelibrary.org/node/47,./reports/79.html,0,52,0,0,0,0,0
+8,Parents & Teachers | Urbana Free Library,https://urbanafreelibrary.org/using-library/parents-teachers,./reports/8.html,0,52,0,0,0,0,0
+80,Classic Reference | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/1,./reports/80.html,0,52,0,0,0,0,0
+81,Local History & Genealogy | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/9,./reports/81.html,0,51,0,0,0,0,0
+82,Magazine & Newspaper Articles | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/12,./reports/82.html,0,52,0,0,0,0,0
+83,Reading & Streaming | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/3,./reports/83.html,0,51,0,0,0,0,0
+84,Language Learning | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/7,./reports/84.html,0,51,0,0,0,0,0
+85,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=1,./reports/85.html,0,44,0,0,0,0,0
+86,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=2,./reports/86.html,0,44,0,0,0,0,0
+87,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=4,./reports/87.html,0,44,0,0,0,0,0
+88,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=6,./reports/88.html,0,44,0,0,0,0,0
+89,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=5,./reports/89.html,0,44,0,0,0,0,0
+9,Ask Library Staff | Urbana Free Library,https://urbanafreelibrary.org/using-library/ask,./reports/9.html,0,55,0,0,0,0,0
+90,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=10,./reports/90.html,0,44,0,0,0,0,0
+91,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=7,./reports/91.html,0,44,0,0,0,0,0
+92,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=8,./reports/92.html,0,44,0,0,0,0,0
+93,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=9,./reports/93.html,0,44,0,0,0,0,0
+94,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=11,./reports/94.html,0,44,0,0,0,0,0
+95,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=12,./reports/95.html,0,44,0,0,0,0,0
+96,Research & Learn | Urbana Free Library,https://urbanafreelibrary.org/ebooks-more/research-learn?field_resource_category_target_id=3,./reports/96.html,0,44,0,0,0,0,0
+97,Consumer Information | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/2,./reports/97.html,0,51,0,0,0,0,0
+98,Library Catalogs | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/8,./reports/98.html,0,51,0,0,0,0,0
+99,Local Interest | Urbana Free Library,https://urbanafreelibrary.org/taxonomy/term/11,./reports/99.html,0,51,0,0,0,0,0

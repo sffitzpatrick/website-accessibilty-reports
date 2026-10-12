@@ -1,0 +1,337 @@
+Page,Title,URL,Report Link,Total Violations,Total Passes,Critical,Serious,Moderate,Minor,Severity Score
+1,Homepage | Clearview Library,https://clearviewlibrary.org,./reports/1.html,0,54,0,0,0,0,0
+10,Interlibrary Loan | Clearview Library,https://clearviewlibrary.org/borrow-research/books-movies-more/interlibrary-loan,./reports/10.html,0,48,0,0,0,0,0
+100,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=20,./reports/100.html,0,43,0,0,0,0,0
+101,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=18,./reports/101.html,0,43,0,0,0,0,0
+102,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=19,./reports/102.html,0,43,0,0,0,0,0
+103,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=16,./reports/103.html,0,43,0,0,0,0,0
+104,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=23,./reports/104.html,0,43,0,0,0,0,0
+105,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=25,./reports/105.html,0,43,0,0,0,0,0
+106,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=24,./reports/106.html,0,43,0,0,0,0,0
+107,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=21,./reports/107.html,0,43,0,0,0,0,0
+108,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=26,./reports/108.html,0,43,0,0,0,0,0
+109,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=62,./reports/109.html,0,43,0,0,0,0,0
+11,Find Your Next Read | Clearview Library,https://clearviewlibrary.org/borrow-research/books-movies-more/find-your-next-read,./reports/11.html,1,49,1,0,0,0,4
+110,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=77,./reports/110.html,0,43,0,0,0,0,0
+111,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=20,./reports/111.html,0,43,0,0,0,0,0
+112,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=18,./reports/112.html,0,43,0,0,0,0,0
+113,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=19,./reports/113.html,0,43,0,0,0,0,0
+114,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=16,./reports/114.html,0,43,0,0,0,0,0
+115,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=23,./reports/115.html,0,43,0,0,0,0,0
+116,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=25,./reports/116.html,0,43,0,0,0,0,0
+117,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=24,./reports/117.html,0,43,0,0,0,0,0
+118,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=21,./reports/118.html,0,43,0,0,0,0,0
+119,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=26,./reports/119.html,0,43,0,0,0,0,0
+12,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research,./reports/12.html,0,45,0,0,0,0,0
+120,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=62,./reports/120.html,0,43,0,0,0,0,0
+121,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=77,./reports/121.html,0,43,0,0,0,0,0
+122,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=20,./reports/122.html,0,43,0,0,0,0,0
+123,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=18,./reports/123.html,0,43,0,0,0,0,0
+124,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=19,./reports/124.html,0,43,0,0,0,0,0
+125,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=16,./reports/125.html,0,43,0,0,0,0,0
+126,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=23,./reports/126.html,0,43,0,0,0,0,0
+127,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=25,./reports/127.html,0,43,0,0,0,0,0
+128,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=24,./reports/128.html,0,43,0,0,0,0,0
+129,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=21,./reports/129.html,0,43,0,0,0,0,0
+13,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0,./reports/13.html,0,43,0,0,0,0,0
+130,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=26,./reports/130.html,0,43,0,0,0,0,0
+131,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=62,./reports/131.html,0,43,0,0,0,0,0
+132,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=77,./reports/132.html,0,43,0,0,0,0,0
+133,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=20,./reports/133.html,0,43,0,0,0,0,0
+134,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=18,./reports/134.html,0,43,0,0,0,0,0
+135,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=19,./reports/135.html,0,43,0,0,0,0,0
+136,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=16,./reports/136.html,0,43,0,0,0,0,0
+137,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=23,./reports/137.html,0,43,0,0,0,0,0
+138,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=25,./reports/138.html,0,43,0,0,0,0,0
+139,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=24,./reports/139.html,0,43,0,0,0,0,0
+14,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0,./reports/14.html,0,43,0,0,0,0,0
+140,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=21,./reports/140.html,0,43,0,0,0,0,0
+141,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=26,./reports/141.html,0,43,0,0,0,0,0
+142,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=62,./reports/142.html,0,43,0,0,0,0,0
+143,Meeting Room Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/meeting-room-policy,./reports/143.html,0,45,0,0,0,0,0
+144,Newsletter Signup | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/signup,./reports/144.html,0,52,0,0,0,0,0
+145,Cookbook Nook | Clearview Library,https://clearviewlibrary.org/cookbook-nook,./reports/145.html,0,45,0,0,0,0,0
+146,100 Books Before Graduation | Clearview Library,https://clearviewlibrary.org/100-books-before-graduation,./reports/146.html,1,42,0,0,1,0,2
+147,Program Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/program-policy,./reports/147.html,0,45,0,0,0,0,0
+148,Unattended Children and Behavior Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/unattended-children-and-behavior-policy,./reports/148.html,0,44,0,0,0,0,0
+149,1000 Books Before Kindergarten Signup | Clearview Library,https://clearviewlibrary.org/programs-events/just-for-kids/1kbk-signup,./reports/149.html,1,43,0,0,1,0,2
+15,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy,./reports/15.html,0,43,0,0,0,0,0
+150,All Databases | Clearview Library,https://clearviewlibrary.org/borrow-research/research/all-databases,./reports/150.html,0,44,0,0,0,0,0
+151,Request for Proposal for Strategic Planning Consulting Services | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-strategic-planning-consulting-services,./reports/151.html,0,44,0,0,0,0,0
+152,New Hours at Severance Library | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/new-hours-severance-library,./reports/152.html,0,43,0,0,0,0,0
+153,Award-Winning Author Joel H. Morris to Headline Clearview Reads 2026 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/award-winning-author-joel-h-morris-headline-clearview-reads-2026,./reports/153.html,0,44,0,0,0,0,0
+154,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=0,./reports/154.html,0,45,0,0,0,0,0
+155,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=1,./reports/155.html,0,45,0,0,0,0,0
+156,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=2,./reports/156.html,0,45,0,0,0,0,0
+157,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=3,./reports/157.html,0,45,0,0,0,0,0
+158,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=4,./reports/158.html,0,45,0,0,0,0,0
+159,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=5,./reports/159.html,0,45,0,0,0,0,0
+16,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0,./reports/16.html,0,43,0,0,0,0,0
+160,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news?page=6,./reports/160.html,0,45,0,0,0,0,0
+161,Bookmobile Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/bookmobile-policy,./reports/161.html,0,45,0,0,0,0,0
+162,Budget Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/budget-policy,./reports/162.html,0,44,0,0,0,0,0
+163,Check Out Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/check-out-policy,./reports/163.html,0,45,0,0,0,0,0
+164,Co-Location of Library Facilities Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/co-location-library-facilities-policy,./reports/164.html,0,44,0,0,0,0,0
+165,Collection Development Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/collection-development-policy,./reports/165.html,0,45,0,0,0,0,0
+166,"Comments, Complaints, and Concerns Policy | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/policies-faqs/comments-complaints-and-concerns-policy,./reports/166.html,0,45,0,0,0,0,0
+167,Conduct in the Library Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/conduct-library-policy,./reports/167.html,0,44,0,0,0,0,0
+168,Copyright Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/copyright-policy,./reports/168.html,0,44,0,0,0,0,0
+169,Displays and Exhibits Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/displays-and-exhibits-policy,./reports/169.html,0,45,0,0,0,0,0
+17,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events,./reports/17.html,0,43,0,0,0,0,0
+170,Emergency Closings Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/emergency-closings-policy,./reports/170.html,0,44,0,0,0,0,0
+171,Facilities Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/facilities-policy,./reports/171.html,0,44,0,0,0,0,0
+172,Federal Immigration Authority Contact Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/federal-immigration-authority-contact-policy,./reports/172.html,0,44,0,0,0,0,0
+173,Financial Policies | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/financial-policies,./reports/173.html,0,45,0,0,0,0,0
+174,Interlibrary Loan Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/interlibrary-loan-policy,./reports/174.html,0,45,0,0,0,0,0
+175,Internet Safety and Acceptable Use Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/internet-safety-and-acceptable-use-policy,./reports/175.html,0,44,0,0,0,0,0
+176,Investment Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/investment-policy,./reports/176.html,0,44,0,0,0,0,0
+177,Material Donation Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/material-donation-policy,./reports/177.html,0,45,0,0,0,0,0
+178,Naming Rights Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/naming-rights-policy,./reports/178.html,0,44,0,0,0,0,0
+179,Open Records Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/open-records-policy,./reports/179.html,0,45,0,0,0,0,0
+18,Reserve a Meeting Room | Clearview Library,https://clearviewlibrary.org/services/other/reserve-room,./reports/18.html,0,45,0,0,0,0,0
+180,"Photography, Videography, and Recording Policy | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/policies-faqs/photography-videography-and-recording-policy,./reports/180.html,0,45,0,0,0,0,0
+181,Privacy of User Records Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/privacy-user-records-policy,./reports/181.html,0,44,0,0,0,0,0
+182,Procurement Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/procurement-policy,./reports/182.html,0,50,0,0,0,0,0
+183,Provision of Library Services Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/provision-library-services-policy,./reports/183.html,0,44,0,0,0,0,0
+184,Public Art Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/public-art-policy,./reports/184.html,0,45,0,0,0,0,0
+185,Public Comment Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/public-comment-policy,./reports/185.html,0,45,0,0,0,0,0
+186,Public Postings and Promotional Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/public-postings-and-promotional-policy,./reports/186.html,0,44,0,0,0,0,0
+187,Records Retention Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/records-retention-policy,./reports/187.html,0,45,0,0,0,0,0
+188,Request for Reconsideration Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/request-for-reconsideration-policy,./reports/188.html,0,45,0,0,0,0,0
+189,Social Media Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/social-media-policy,./reports/189.html,0,44,0,0,0,0,0
+19,For Adults | Clearview Library,https://clearviewlibrary.org/programs-events/upcoming-events/for-adults,./reports/19.html,0,55,0,0,0,0,0
+190,Solicitation and Petitioning Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/solicitation-and-petitioning-policy,./reports/190.html,0,45,0,0,0,0,0
+191,Teen Spaces Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/teen-spaces-policy,./reports/191.html,0,45,0,0,0,0,0
+192,Trustee Code of Ethics Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/trustee-code-of-ethics-policy,./reports/192.html,0,44,0,0,0,0,0
+193,Teen Volunteer Application Form | Clearview Library,https://clearviewlibrary.org/about-us/support-donate/volunteer/teens,./reports/193.html,1,45,0,1,0,0,3
+194,Youth Services Volunteer Application | Clearview Library,https://clearviewlibrary.org/form/youth-services-volunteer,./reports/194.html,1,42,0,0,1,0,2
+195,"New Year, New Us: Clearview Joins the Marmot Library Network | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/new-year-new-us-clearview-joins-marmot-library-network,./reports/195.html,1,44,0,0,1,0,2
+196,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/news?page=0,./reports/196.html,0,44,0,0,0,0,0
+197,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/news?page=1,./reports/197.html,0,44,0,0,0,0,0
+198,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/news?page=2,./reports/198.html,0,44,0,0,0,0,0
+199,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/news?page=3,./reports/199.html,0,44,0,0,0,0,0
+2,Hours & Locations | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/hours-locations,./reports/2.html,1,45,1,0,0,0,4
+20,For Teens | Clearview Library,https://clearviewlibrary.org/programs-events/upcoming-events/for-teens,./reports/20.html,2,59,0,7,0,0,21
+200,Art in the Quiet Space - January 2026 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-quiet-space-january-2026,./reports/200.html,0,44,0,0,0,0,0
+201,Local Artists Featured in New Windsor Library Gallery Exhibit | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/local-artists-featured-new-windsor-library-gallery-exhibit,./reports/201.html,0,44,0,0,0,0,0
+202,Art in the Library - July 2025 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-library-july-2025,./reports/202.html,0,44,0,0,0,0,0
+203,Art in the Library - Winter Edition! | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-library-winter-edition,./reports/203.html,0,44,0,0,0,0,0
+204,Art in the Library! May - July 2024 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-library-may-july-2024,./reports/204.html,0,44,0,0,0,0,0
+205,Art in the Library! March - May 2024 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-library-march-may-2024,./reports/205.html,0,44,0,0,0,0,0
+206,Art in the Library! January - March 2024 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-in-the-library-January-March-2024,./reports/206.html,0,44,0,0,0,0,0
+207,Art in the Library! | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-in-the-library,./reports/207.html,0,44,0,0,0,0,0
+208,Community | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/community,./reports/208.html,0,43,0,0,0,0,0
+209,Clearview Library District Launches New ASL Resource Through Mango Languages | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-launches-new-asl-resource-through-mango,./reports/209.html,0,44,0,0,0,0,0
+21,Book Clubs | Clearview Library,https://clearviewlibrary.org/programs-events/upcoming-events/book-clubs,./reports/21.html,0,51,0,0,0,0,0
+210,Try Mango Languages’ ASL Course – Your Library Needs Your Help! | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/try-mango-languages-asl-course-your-library-needs-your-help,./reports/210.html,0,43,0,0,0,0,0
+211,Clearview Library Adds Genealogy Databases | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-adds-genealogy-databases,./reports/211.html,0,44,0,0,0,0,0
+212,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=All,./reports/212.html,0,45,0,0,0,0,0
+213,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=77,./reports/213.html,0,43,0,0,0,0,0
+214,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=20,./reports/214.html,0,43,0,0,0,0,0
+215,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=18,./reports/215.html,0,43,0,0,0,0,0
+216,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=19,./reports/216.html,0,43,0,0,0,0,0
+217,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=16,./reports/217.html,0,43,0,0,0,0,0
+218,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=23,./reports/218.html,0,43,0,0,0,0,0
+219,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=25,./reports/219.html,0,43,0,0,0,0,0
+22,Suggest a Program | Clearview Library,https://clearviewlibrary.org/programs-events/upcoming-events/suggest-program,./reports/22.html,0,45,0,0,0,0,0
+220,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=24,./reports/220.html,0,43,0,0,0,0,0
+221,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=21,./reports/221.html,0,43,0,0,0,0,0
+222,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=26,./reports/222.html,0,43,0,0,0,0,0
+223,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=62,./reports/223.html,0,43,0,0,0,0,0
+224,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=77,./reports/224.html,0,43,0,0,0,0,0
+225,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=20,./reports/225.html,0,43,0,0,0,0,0
+226,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=18,./reports/226.html,0,43,0,0,0,0,0
+227,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=19,./reports/227.html,0,43,0,0,0,0,0
+228,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=16,./reports/228.html,0,43,0,0,0,0,0
+229,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=23,./reports/229.html,0,43,0,0,0,0,0
+23,Summer Adventure Program | Clearview Library,https://clearviewlibrary.org/sap,./reports/23.html,0,43,0,0,0,0,0
+230,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=25,./reports/230.html,0,43,0,0,0,0,0
+231,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=24,./reports/231.html,0,43,0,0,0,0,0
+232,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=21,./reports/232.html,0,43,0,0,0,0,0
+233,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=26,./reports/233.html,0,43,0,0,0,0,0
+234,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=62,./reports/234.html,0,43,0,0,0,0,0
+235,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=77,./reports/235.html,0,43,0,0,0,0,0
+236,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=20,./reports/236.html,0,43,0,0,0,0,0
+237,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=18,./reports/237.html,0,43,0,0,0,0,0
+238,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=19,./reports/238.html,0,43,0,0,0,0,0
+239,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=16,./reports/239.html,0,43,0,0,0,0,0
+24,Just for Kids | Clearview Library,https://clearviewlibrary.org/programs-events/just-for-kids,./reports/24.html,0,54,0,0,0,0,0
+240,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=23,./reports/240.html,0,43,0,0,0,0,0
+241,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=25,./reports/241.html,0,43,0,0,0,0,0
+242,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=24,./reports/242.html,0,43,0,0,0,0,0
+243,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=21,./reports/243.html,0,43,0,0,0,0,0
+244,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=26,./reports/244.html,0,43,0,0,0,0,0
+245,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=62,./reports/245.html,0,43,0,0,0,0,0
+246,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=77,./reports/246.html,0,43,0,0,0,0,0
+247,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=20,./reports/247.html,0,43,0,0,0,0,0
+248,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=18,./reports/248.html,0,43,0,0,0,0,0
+249,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=19,./reports/249.html,0,43,0,0,0,0,0
+25,Little Ones | Clearview Library,https://clearviewlibrary.org/programs-events/just-for-kids/little-ones,./reports/25.html,2,49,0,3,0,0,9
+250,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=16,./reports/250.html,0,43,0,0,0,0,0
+251,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=23,./reports/251.html,0,43,0,0,0,0,0
+252,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=25,./reports/252.html,0,43,0,0,0,0,0
+253,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=24,./reports/253.html,0,43,0,0,0,0,0
+254,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=21,./reports/254.html,0,43,0,0,0,0,0
+255,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=26,./reports/255.html,0,43,0,0,0,0,0
+256,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=62,./reports/256.html,0,43,0,0,0,0,0
+257,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=77,./reports/257.html,0,43,0,0,0,0,0
+258,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=20,./reports/258.html,0,43,0,0,0,0,0
+259,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=18,./reports/259.html,0,43,0,0,0,0,0
+26,1000 Books Before Kindergarten | Clearview Library,https://clearviewlibrary.org/programs-events/just-for-kids/1k-books-before-kindergarten,./reports/26.html,0,44,0,0,0,0,0
+260,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=19,./reports/260.html,0,43,0,0,0,0,0
+261,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=16,./reports/261.html,0,43,0,0,0,0,0
+262,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=23,./reports/262.html,0,43,0,0,0,0,0
+263,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=25,./reports/263.html,0,43,0,0,0,0,0
+264,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=24,./reports/264.html,0,43,0,0,0,0,0
+265,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=21,./reports/265.html,0,43,0,0,0,0,0
+266,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=26,./reports/266.html,0,43,0,0,0,0,0
+267,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=62,./reports/267.html,0,43,0,0,0,0,0
+268,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=All,./reports/268.html,0,43,0,0,0,0,0
+269,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=All,./reports/269.html,0,43,0,0,0,0,0
+27,Services | Clearview Library,https://clearviewlibrary.org/services,./reports/27.html,0,44,0,0,0,0,0
+270,History & Genealogy | Clearview Library,https://clearviewlibrary.org/borrow-research/research/history-genealogy?field_resource_category_target_id=All,./reports/270.html,0,43,0,0,0,0,0
+271,Homework & Online Learning | Clearview Library,https://clearviewlibrary.org/borrow-research/research/homework-online-learning-0?field_resource_category_target_id=All,./reports/271.html,0,43,0,0,0,0,0
+272,News & Current Events | Clearview Library,https://clearviewlibrary.org/borrow-research/research/news-current-events?field_resource_category_target_id=All,./reports/272.html,0,43,0,0,0,0,0
+273,"Real Baby Food: Easy, All-Natural Recipes for Your Baby and Toddler by Jenna Helwig | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/real-baby-food-easy-all-natural-recipes-your-baby-and-toddler-jenna-helwig,./reports/273.html,0,44,0,0,0,0,0
+274,Cookbook Nook: Martha Stewart's Fruit Desserts: 100+ Delicious Ways to Savor the Best of Every Season by Martha Stewart | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-martha-stewarts-fruit-desserts-100-delicious-ways-savor-best,./reports/274.html,0,44,0,0,0,0,0
+275,Cookbook Nook: The Official Bridgerton Cookbook by Regula Ysewijn | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-official-bridgerton-cookbook-regula-ysewijn,./reports/275.html,0,44,0,0,0,0,0
+276,Cookbook Nook: Windsor Colorado Centennial Cookbook 1890-1990 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-windsor-colorado-centennial-cookbook-1890-1990,./reports/276.html,0,44,0,0,0,0,0
+277,Half Baked Harvest Quick & Cozy: A Cookbook by Tieghan Gerard | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/half-baked-harvest-quick-cozy-cookbook-tieghan-gerard,./reports/277.html,0,44,0,0,0,0,0
+278,Cookbook Nook: The Pumpkin Spice Cookbook: 60 Wonderfully Warming Recipes by Heather Thomas | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-pumpkin-spice-cookbook-60-wonderfully-warming-recipes,./reports/278.html,0,44,0,0,0,0,0
+279,Cookbook Nook: The Unofficial Harry Potter Cookbook by Dinah Bucholz | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-unofficial-harry-potter-cookbook-dinah-bucholz,./reports/279.html,1,44,0,1,0,0,3
+28,Technology Services | Clearview Library,https://clearviewlibrary.org/services/technology,./reports/28.html,0,45,0,0,0,0,0
+280,Cookbook Nook: The How Not to Die Cookbook by Michael Greger | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-how-not-die-cookbook-michael-greger,./reports/280.html,0,44,0,0,0,0,0
+281,"Cookbook Nook: The Noom Kitchen: 100 Healthy, Delicious, Flexible Recipes for Every Day by Noom | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-noom-kitchen-100-healthy-delicious-flexible-recipes-every,./reports/281.html,0,44,0,0,0,0,0
+282,Cookbook Nook: Mexican Today by Pati Jinish | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-mexican-today-pati-jinish,./reports/282.html,0,44,0,0,0,0,0
+283,Cookbook Nook: The Blue Zones American Kitchen by Dan Buettner | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-blue-zones-american-kitchen-dan-buettner,./reports/283.html,0,44,0,0,0,0,0
+284,Cookbook Nook: Taste of Home: Make-Ahead Comfort Foods | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-taste-home-make-ahead-comfort-foods,./reports/284.html,0,44,0,0,0,0,0
+285,Cookbook Nook: Milk Street: Cook What You Have by Christopher Kimball | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-milk-street-cook-what-you-have-christopher-kimball,./reports/285.html,0,44,0,0,0,0,0
+286,Cookbook Nook | Clearview Library,https://clearviewlibrary.org/cookbook-nook?page=0,./reports/286.html,0,45,0,0,0,0,0
+287,Cookbook Nook | Clearview Library,https://clearviewlibrary.org/cookbook-nook?page=1,./reports/287.html,0,45,0,0,0,0,0
+288,Cookbook Nook | Clearview Library,https://clearviewlibrary.org/cookbook-nook?page=2,./reports/288.html,0,45,0,0,0,0,0
+289,Got Seeds? Contribute to our Seed Bank Binder! | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/got-seeds-contribute-our-seed-bank-binder,./reports/289.html,0,43,0,0,0,0,0
+29,3D Printing | Clearview Library,https://clearviewlibrary.org/services/technology/3d-printing,./reports/29.html,0,49,0,0,0,0,0
+290,Improving Our Community Spaces: Pikes Peak Meeting Room Renovation | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/improving-our-community-spaces-pikes-peak-meeting-room-renovation,./reports/290.html,0,43,0,0,0,0,0
+291,Request for Proposal for Construction Manager General Contractor (CMGC) Services | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-construction-manager-general-contractor-cmgc-services,./reports/291.html,0,44,0,0,0,0,0
+292,Severance Library Collecting Donations for Annual Turkey Food Drive | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/severance-library-collecting-donations-annual-turkey-food-drive,./reports/292.html,0,44,0,0,0,0,0
+293,Request for Proposal for Auditor Services 2025 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-auditor-services-2025,./reports/293.html,0,44,0,0,0,0,0
+294,"Join In: Film, Conversation, and Community Connections | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/join-film-conversation-and-community-connections,./reports/294.html,0,44,0,0,0,0,0
+295,Request for Proposal for Organizational Structure & Effectiveness Study | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-organizational-structure-effectiveness-study,./reports/295.html,0,44,0,0,0,0,0
+296,Clearview Library District announces summer adventure program: Color Our World | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-announces-summer-adventure-program-color-our,./reports/296.html,0,44,0,0,0,0,0
+297,"Young Writers, Big Impact: Katherine Applegate Launches National Writing Contest for Kids Ages 8 to 12 | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/young-writers-big-impact-katherine-applegate-launches-national-writing,./reports/297.html,0,44,0,0,0,0,0
+298,Reserve Meeting Rooms After-Hours at Severance Library | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/reserve-meeting-rooms-after-hours-severance-library,./reports/298.html,0,43,0,0,0,0,0
+299,Proposal for Network Services and Hardware for All Sites | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/proposal-network-services-and-hardware-all-sites,./reports/299.html,0,47,0,0,0,0,0
+3,Contact | Clearview Library,https://clearviewlibrary.org/contact,./reports/3.html,0,46,0,0,0,0,0
+30,Text Notifications | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/text-notifications,./reports/30.html,0,45,0,0,0,0,0
+300,"Windsor and Severance Library Branches Announce New Hours Starting December 30, 2024 | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/windsor-and-severance-library-branches-announce-new-hours-starting,./reports/300.html,0,44,0,0,0,0,0
+301,Clearview Library District Statement on Town of Windsor’s Development Resolution (2024-62) | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-statement-town-windsors-development-resolution,./reports/301.html,0,44,0,0,0,0,0
+302,Clearview Library District Appoints New Library Director | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-appoints-new-library-director,./reports/302.html,0,44,0,0,0,0,0
+303,Discover More with Pika: Our New Intuitive Catalog System | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/discover-more-pika-our-new-intuitive-catalog-system,./reports/303.html,0,44,0,0,0,0,0
+304,2024 Candidates for the Library Director Position | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/2024-candidates-library-director-position,./reports/304.html,0,43,0,0,0,0,0
+305,Library District Director Retirement Announcement | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/library-district-director-retirement-announcement,./reports/305.html,0,43,0,0,0,0,0
+306,Library Director Opening | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/library-director-opening,./reports/306.html,0,44,0,0,0,0,0
+307,Cookbook Nook: Halloween Cookbook by Betty Crocker | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-halloween-cookbook-betty-crocker,./reports/307.html,0,44,0,0,0,0,0
+308,Cookbook Nook: The Forest Feast: Simple Vegetarian Recipes from My Cabin in the Woods | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-forest-feast-simple-vegetarian-recipes-my-cabin-woods,./reports/308.html,0,44,0,0,0,0,0
+309,Statement from the Clearview Library District Board | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/statement-clearview-library-district-board,./reports/309.html,0,44,0,0,0,0,0
+31,Other Services | Clearview Library,https://clearviewlibrary.org/services/other,./reports/31.html,0,45,0,0,0,0,0
+310,The Cookbook Nook: Farmhouse Rules: Seasonal Meals for the Whole Family | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-farmhouse-rules-seasonal-meals-whole-family,./reports/310.html,0,44,0,0,0,0,0
+311,The Cookbook Nook: Take It Easy: Recipes for Zero Stress Deliciousness | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-take-it-easy-recipes-zero-stress-deliciousness,./reports/311.html,0,44,0,0,0,0,0
+312,Request for Proposal for Shelving | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-shelving,./reports/312.html,0,44,0,0,0,0,0
+313,Request for Proposal for Furniture | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-furniture,./reports/313.html,0,44,0,0,0,0,0
+314,The Cookbook Nook: Mi Cocina: Recipes and Rapture from My Kitchen in Mexico | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-mi-cocina-recipes-and-rapture-my-kitchen-mexico,./reports/314.html,0,44,0,0,0,0,0
+315,"Request for Proposal for Naming Convention, Logo Design, and Branding Refresh | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-naming-convention-logo-design-and-branding-refresh,./reports/315.html,0,44,0,0,0,0,0
+316,The Cookbook Nook: Delectable: Sweet and Savory Baking by Claudia Fleming | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-delectable-sweet-and-savory-baking-claudia-fleming,./reports/316.html,0,44,0,0,0,0,0
+317,Clearview Library District Breaks Ground on New Branch in Severance | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-breaks-ground-new-branch-severance,./reports/317.html,0,45,0,0,0,0,0
+318,"The Cookbook Nook: 100 Techniques: Master A Lifetime Of Cooking Skills, From Basic To Bucket List by America's Test Kitchen | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-100-techniques-master-lifetime-cooking-skills-basic-bucket,./reports/318.html,0,44,0,0,0,0,0
+319,Events | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/events,./reports/319.html,0,43,0,0,0,0,0
+32,Bookmobile | Clearview Library,https://clearviewlibrary.org/services/other/bookmobile,./reports/32.html,0,45,0,0,0,0,0
+320,National Library Week 2023 | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/national-library-week-2023,./reports/320.html,0,44,0,0,0,0,0
+321,The Cookbook Nook: The Pasta Queen: A Just Gorgeous Cookbook by Nadia Caterina Munno | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-pasta-queen-just-gorgeous-cookbook-nadia-caterina-munno,./reports/321.html,0,44,0,0,0,0,0
+322,The Pioneer Woman Cooks: Super Easy! by Ree Drummond | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/pioneer-woman-cooks-super-easy-ree-drummond,./reports/322.html,0,44,0,0,0,0,0
+323,Request for Proposal for Network Services and Hardware | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-network-services-and-hardware-0,./reports/323.html,0,44,0,0,0,0,0
+324,The Cookbook Nook: The Korean Vegan Cookbook by Joanne Lee Molinaro | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-korean-vegan-cookbook-joanne-lee-molinaro,./reports/324.html,0,44,0,0,0,0,0
+325,The Cookbook Nook: Dorie's Cookies | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-dories-cookies,./reports/325.html,0,44,0,0,0,0,0
+326,"The Cookbook Nook: Prep + Rally: an hour of prep, a week of delicious meals. | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-prep-rally,./reports/326.html,0,44,0,0,0,0,0
+327,Cookbook Nook: Half Baked Harvest: Every Day | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/cookbook-nook-half-baked-harvest-every-day,./reports/327.html,0,44,0,0,0,0,0
+328,Severance Library Branch | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/severance-library-branch,./reports/328.html,0,43,0,0,0,0,0
+329,Request for Proposal for Network Services and Hardware | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/request-proposal-network-services-and-hardware,./reports/329.html,0,44,0,0,0,0,0
+33,Lobby Stops | Clearview Library,https://clearviewlibrary.org/services/other/lobby-stops,./reports/33.html,0,45,0,0,0,0,0
+330,Library and School District Partner to Bring e-Books to Students | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/library-and-school-district-partner-bring-e-books-students,./reports/330.html,0,43,0,0,0,0,0
+331,Check Out Policy | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies-faqs/check-out-information-policy,./reports/331.html,0,45,0,0,0,0,0
+332,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research?field_resource_category_target_id=All,./reports/332.html,0,43,0,0,0,0,0
+333,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive?field_resource_category_target_id=All,./reports/333.html,0,43,0,0,0,0,0
+334,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science?field_resource_category_target_id=All,./reports/334.html,0,43,0,0,0,0,0
+335,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies?field_resource_category_target_id=All,./reports/335.html,0,43,0,0,0,0,0
+336,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology?field_resource_category_target_id=All,./reports/336.html,0,43,0,0,0,0,0
+34,Tax Help | Clearview Library,https://clearviewlibrary.org/services/other/tax-help,./reports/34.html,0,45,0,0,0,0,0
+35,Adult In-Library Use Kits | Clearview Library,https://clearviewlibrary.org/services/other/adult-in-library-use-kits,./reports/35.html,0,45,0,0,0,0,0
+36,Educator Card | Clearview Library,https://clearviewlibrary.org/educator-card,./reports/36.html,0,44,0,0,0,0,0
+37,About Us | Clearview Library,https://clearviewlibrary.org/about-us,./reports/37.html,0,52,0,0,0,0,0
+38,Learn More | Clearview Library,https://clearviewlibrary.org/about-us/learn-more,./reports/38.html,2,51,1,1,0,0,7
+39,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news,./reports/39.html,0,45,0,0,0,0,0
+4,Get a Library Card | Clearview Library,https://clearviewlibrary.org/card,./reports/4.html,0,44,0,0,0,0,0
+40,Policies | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/policies,./reports/40.html,0,45,0,0,0,0,0
+41,FAQs | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/faqs,./reports/41.html,0,45,0,0,0,0,0
+42,Board of Trustees | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/board-of-trustees,./reports/42.html,1,57,1,0,0,0,4
+43,Work With Us | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/work-with-us,./reports/43.html,0,44,0,0,0,0,0
+44,Values & Priorities | Clearview Library,https://clearviewlibrary.org/about-us/values-priorities,./reports/44.html,0,45,0,0,0,0,0
+45,Our Impact | Clearview Library,https://clearviewlibrary.org/about-us/values-priorities/our-impact,./reports/45.html,0,45,0,0,0,0,0
+46,Financial Spending | Clearview Library,https://clearviewlibrary.org/about-us/values-priorities/financial-spending,./reports/46.html,1,45,0,1,0,0,3
+47,Together Forward: 2024-2025 Strategic Plan | Clearview Library,https://clearviewlibrary.org/about-us/values-priorities/strategic-plan,./reports/47.html,0,45,0,0,0,0,0
+48,Support & Donate | Clearview Library,https://clearviewlibrary.org/about-us/support-donate,./reports/48.html,0,45,0,0,0,0,0
+49,Volunteer | Clearview Library,https://clearviewlibrary.org/about-us/support-donate/volunteer,./reports/49.html,0,45,0,0,0,0,0
+5,Borrow & Research | Clearview Library,https://clearviewlibrary.org/borrow-research,./reports/5.html,0,45,0,0,0,0,0
+50,Your Library Story | Clearview Library,https://clearviewlibrary.org/your-library-story,./reports/50.html,0,45,0,0,0,0,0
+51,News | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/news,./reports/51.html,0,44,0,0,0,0,0
+52,Clearview Library District Seeks New Dungeon Master for Teen D&D Program | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-seeks-new-dungeon-master-teen-dd-program,./reports/52.html,0,44,0,0,0,0,0
+53,Clearview Library District Opens New Gallery Space at Severance Library | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-opens-new-gallery-space-severance-library,./reports/53.html,0,44,0,0,0,0,0
+54,History Exhibition Coming to Windsor and Severance This Spring | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/history-exhibition-coming-windsor-and-severance-spring,./reports/54.html,0,45,0,0,0,0,0
+55,September is Library Card Sign-up Month | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/september-library-card-sign-month,./reports/55.html,0,45,0,0,0,0,0
+56,Art in the Library | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/art-library,./reports/56.html,0,43,0,0,0,0,0
+57,"Discover Our New Art Gallery Exhibit at Severance Library, July 2026 | Clearview Library",https://clearviewlibrary.org/about-us/learn-more/news/discover-our-new-art-gallery-exhibit-severance-library-july-2026,./reports/57.html,0,44,0,0,0,0,0
+58,Pikes Peak Meeting Room Now Available for After-Hours Reservations | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/pikes-peak-meeting-room-now-available-after-hours-reservations,./reports/58.html,0,43,0,0,0,0,0
+59,Homework & Learning Resources | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/homework-learning-resources,./reports/59.html,0,47,0,0,0,0,0
+6,"Books, Movies, & More | Clearview Library",https://clearviewlibrary.org/borrow-research/books-movies-more,./reports/6.html,0,45,0,0,0,0,0
+60,The Future Starts With Your Story: Help Shape the Next Chapter of Your Library | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/future-starts-your-story-help-shape-next-chapter-your-library,./reports/60.html,0,43,0,0,0,0,0
+61,America 250 Starts Here | Explore the Stories That Shaped Us | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/america-250-starts-here-explore-stories-shaped-us,./reports/61.html,0,44,0,0,0,0,0
+62,Clearview Library District Opens New CRC Outpost at the Windsor Community Recreation Center | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-district-opens-new-crc-outpost-windsor-community,./reports/62.html,0,44,0,0,0,0,0
+63,Ask A Tech | Clearview Library,https://clearviewlibrary.org/services/technology/ask-a-tech,./reports/63.html,0,43,0,0,0,0,0
+64,Website Accessibility | Clearview Library,https://clearviewlibrary.org/website-accessibility,./reports/64.html,0,44,0,0,0,0,0
+65,Access denied | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/facilities-plan,./reports/65.html,1,42,0,0,1,0,2
+66,Database Spotlight | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/database-spotlight,./reports/66.html,0,43,0,0,0,0,0
+67,Clearview Library Now Offers Online Crafting Classes | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/clearview-library-now-offers-online-crafting-classes,./reports/67.html,0,44,0,0,0,0,0
+68,5 Ways the Library Can Help with Homework | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/5-ways-library-can-help-homework,./reports/68.html,0,44,0,0,0,0,0
+69,Newspapers.com Gives Online Access to Historical Papers | Clearview Library,https://clearviewlibrary.org/about-us/learn-more/news/newspaperscom-gives-online-access-historical-papers,./reports/69.html,0,44,0,0,0,0,0
+7,Downloads & Streaming | Clearview Library,https://clearviewlibrary.org/borrow-research/books-movies-more/downloads-streaming,./reports/7.html,0,46,0,0,0,0,0
+70,Suggest a Purchase | Clearview Library,https://clearviewlibrary.org/form/suggest-a-purchase,./reports/70.html,1,44,0,0,1,0,2
+71,Adventure Pass | Clearview Library,https://clearviewlibrary.org/adventure-pass,./reports/71.html,0,45,0,0,0,0,0
+72,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=77,./reports/72.html,0,45,0,0,0,0,0
+73,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=20,./reports/73.html,0,44,0,0,0,0,0
+74,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=18,./reports/74.html,0,44,0,0,0,0,0
+75,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=19,./reports/75.html,0,44,0,0,0,0,0
+76,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=16,./reports/76.html,0,44,0,0,0,0,0
+77,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=23,./reports/77.html,0,44,0,0,0,0,0
+78,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=25,./reports/78.html,0,44,0,0,0,0,0
+79,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=24,./reports/79.html,0,44,0,0,0,0,0
+8,"""Library of Things"": Check Out an Adventure with Explore Kits | Clearview Library",https://clearviewlibrary.org/borrow-research/books-movies-more/explore-kits,./reports/8.html,0,45,0,0,0,0,0
+80,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=21,./reports/80.html,0,44,0,0,0,0,0
+81,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=26,./reports/81.html,0,44,0,0,0,0,0
+82,Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research?field_resource_category_target_id=62,./reports/82.html,0,44,0,0,0,0,0
+83,General Research | Clearview Library,https://clearviewlibrary.org/borrow-research/research/general-research,./reports/83.html,0,43,0,0,0,0,0
+84,Automotive | Clearview Library,https://clearviewlibrary.org/borrow-research/research/automotive,./reports/84.html,0,43,0,0,0,0,0
+85,Health & Science | Clearview Library,https://clearviewlibrary.org/borrow-research/research/health-science,./reports/85.html,0,43,0,0,0,0,0
+86,Hobbies | Clearview Library,https://clearviewlibrary.org/borrow-research/research/hobbies,./reports/86.html,0,43,0,0,0,0,0
+87,Technology | Clearview Library,https://clearviewlibrary.org/borrow-research/research/technology,./reports/87.html,0,43,0,0,0,0,0
+88,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=77,./reports/88.html,0,43,0,0,0,0,0
+89,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=20,./reports/89.html,0,43,0,0,0,0,0
+9,Adventure Pass | Clearview Library,https://clearviewlibrary.org/borrow-research/adventure-pass,./reports/9.html,0,45,0,0,0,0,0
+90,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=18,./reports/90.html,0,43,0,0,0,0,0
+91,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=19,./reports/91.html,0,43,0,0,0,0,0
+92,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=16,./reports/92.html,0,43,0,0,0,0,0
+93,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=23,./reports/93.html,0,43,0,0,0,0,0
+94,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=25,./reports/94.html,0,43,0,0,0,0,0
+95,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=24,./reports/95.html,0,43,0,0,0,0,0
+96,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=21,./reports/96.html,0,43,0,0,0,0,0
+97,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=26,./reports/97.html,0,43,0,0,0,0,0
+98,Books & Literature | Clearview Library,https://clearviewlibrary.org/borrow-research/research/books-literature-0?field_resource_category_target_id=62,./reports/98.html,0,43,0,0,0,0,0
+99,Business & Legal | Clearview Library,https://clearviewlibrary.org/borrow-research/research/business-legal-0?field_resource_category_target_id=77,./reports/99.html,0,43,0,0,0,0,0

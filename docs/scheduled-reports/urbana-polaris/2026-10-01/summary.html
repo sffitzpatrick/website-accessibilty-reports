@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Accessibility Summary Report</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.2/js/dataTables.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.min.css">
+<style>
+body { font-family: sans-serif; padding: 2rem; }
+table { border-collapse: collapse; width: 100%; margin-top: 1rem; table-layout: fixed; }
+th, td { border: 1px solid #ccc; padding: 6px; text-align: center; word-break: break-word; }
+th { background: #f4f4f4; }
+canvas { max-width: 900px; margin: 2rem auto; display: block; }
+</style>
+
+</head>
+<body>
+
+<h1>Accessibility Summary Report</h1>
+
+<div class="meta">
+<div><strong>Site:</strong> urbana-polaris</div>
+<div><strong>URL:</strong> <a href="https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.5">https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.5</a></div>
+<div><strong>Date:</strong> 2026-10-01</div>
+</div>
+
+<table id="summary-table">
+<thead>
+<tr>
+<th>Page</th>
+<th>Title</th>
+<th>URL</th>
+<th>Report Link</th>
+<th>Total Violations</th>
+<th>Total Passes</th>
+<th>Critical</th>
+<th>Serious</th>
+<th>Moderate</th>
+<th>Minor</th>
+<th>Severity Score</th>
+</tr>
+</thead><tbody>
+<tr><td>1</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.5" target="_blank">https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.5</a></td><td><a href="./reports/1.html" target="_blank">./reports/1.html</a></td><td>9</td><td>48</td><td>16</td><td>17</td><td>9</td><td>0</td><td>133</td></tr>
+<tr><td>10</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/search/default.aspx?ctx=6.1033.0.0.1&amp;type=Advanced" target="_blank">https://cucatalog.org/polaris/search/default.aspx?ctx=6.1033.0.0.1&amp;type=Advanced</a></td><td><a href="./reports/10.html" target="_blank">./reports/10.html</a></td><td>11</td><td>47</td><td>9</td><td>10</td><td>9</td><td>0</td><td>84</td></tr>
+<tr><td>12</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/patronaccount/default.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/patronaccount/default.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/12.html" target="_blank">./reports/12.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>13</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/patronaccount/itemsout.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/patronaccount/itemsout.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/13.html" target="_blank">./reports/13.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>14</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/patronaccount/requests.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/patronaccount/requests.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/14.html" target="_blank">./reports/14.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>15</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/patronaccount/finesfees.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/patronaccount/finesfees.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/15.html" target="_blank">./reports/15.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>16</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/patronaccount/searchagent.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/patronaccount/searchagent.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/16.html" target="_blank">./reports/16.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>17</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/search/titlelist.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/search/titlelist.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/17.html" target="_blank">./reports/17.html</a></td><td>8</td><td>41</td><td>0</td><td>2</td><td>9</td><td>0</td><td>24</td></tr>
+<tr><td>18</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/logon.aspx?ctx=6.1033.0.0.1&amp;Header=1" target="_blank">https://cucatalog.org/polaris/logon.aspx?ctx=6.1033.0.0.1&amp;Header=1</a></td><td><a href="./reports/18.html" target="_blank">./reports/18.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>19</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/help/default.aspx?Header=1" target="_blank">https://cucatalog.org/polaris/help/default.aspx?Header=1</a></td><td><a href="./reports/19.html" target="_blank">./reports/19.html</a></td><td>9</td><td>39</td><td>8</td><td>9</td><td>9</td><td>0</td><td>77</td></tr>
+<tr><td>2</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/logon.aspx?header=1" target="_blank">https://cucatalog.org/polaris/logon.aspx?header=1</a></td><td><a href="./reports/2.html" target="_blank">./reports/2.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>20</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2645261" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2645261</a></td><td><a href="./reports/20.html" target="_blank">./reports/20.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>21</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638567" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638567</a></td><td><a href="./reports/21.html" target="_blank">./reports/21.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>22</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2607551" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2607551</a></td><td><a href="./reports/22.html" target="_blank">./reports/22.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>23</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2642532" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2642532</a></td><td><a href="./reports/23.html" target="_blank">./reports/23.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>24</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638603" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638603</a></td><td><a href="./reports/24.html" target="_blank">./reports/24.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>25</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2642153" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2642153</a></td><td><a href="./reports/25.html" target="_blank">./reports/25.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>26</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2647703" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2647703</a></td><td><a href="./reports/26.html" target="_blank">./reports/26.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>27</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2633869" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2633869</a></td><td><a href="./reports/27.html" target="_blank">./reports/27.html</a></td><td>15</td><td>47</td><td>14</td><td>37</td><td>9</td><td>0</td><td>185</td></tr>
+<tr><td>28</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2659862" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2659862</a></td><td><a href="./reports/28.html" target="_blank">./reports/28.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>29</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2642128" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2642128</a></td><td><a href="./reports/29.html" target="_blank">./reports/29.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>3</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.1&amp;lp=1" target="_blank">https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.1&amp;lp=1</a></td><td><a href="./reports/3.html" target="_blank">./reports/3.html</a></td><td>9</td><td>48</td><td>16</td><td>17</td><td>9</td><td>0</td><td>133</td></tr>
+<tr><td>30</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638600" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638600</a></td><td><a href="./reports/30.html" target="_blank">./reports/30.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>31</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2647253" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2647253</a></td><td><a href="./reports/31.html" target="_blank">./reports/31.html</a></td><td>15</td><td>47</td><td>14</td><td>37</td><td>9</td><td>0</td><td>185</td></tr>
+<tr><td>32</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2645922" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2645922</a></td><td><a href="./reports/32.html" target="_blank">./reports/32.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>33</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2635134" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2635134</a></td><td><a href="./reports/33.html" target="_blank">./reports/33.html</a></td><td>15</td><td>47</td><td>14</td><td>37</td><td>9</td><td>0</td><td>185</td></tr>
+<tr><td>34</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2642980" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2642980</a></td><td><a href="./reports/34.html" target="_blank">./reports/34.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>35</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638684" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638684</a></td><td><a href="./reports/35.html" target="_blank">./reports/35.html</a></td><td>15</td><td>47</td><td>14</td><td>37</td><td>9</td><td>0</td><td>185</td></tr>
+<tr><td>36</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2647321" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2647321</a></td><td><a href="./reports/36.html" target="_blank">./reports/36.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>37</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2648012" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2648012</a></td><td><a href="./reports/37.html" target="_blank">./reports/37.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>38</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2634321" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2634321</a></td><td><a href="./reports/38.html" target="_blank">./reports/38.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>39</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2644129" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2644129</a></td><td><a href="./reports/39.html" target="_blank">./reports/39.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>4</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/default.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/4.html" target="_blank">./reports/4.html</a></td><td>9</td><td>48</td><td>16</td><td>17</td><td>9</td><td>0</td><td>133</td></tr>
+<tr><td>40</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638597" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638597</a></td><td><a href="./reports/40.html" target="_blank">./reports/40.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>41</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2634322" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2634322</a></td><td><a href="./reports/41.html" target="_blank">./reports/41.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>42</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2647282" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2647282</a></td><td><a href="./reports/42.html" target="_blank">./reports/42.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>43</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2634320" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2634320</a></td><td><a href="./reports/43.html" target="_blank">./reports/43.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>44</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2642156" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2642156</a></td><td><a href="./reports/44.html" target="_blank">./reports/44.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>45</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638607" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638607</a></td><td><a href="./reports/45.html" target="_blank">./reports/45.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>46</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2635136" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2635136</a></td><td><a href="./reports/46.html" target="_blank">./reports/46.html</a></td><td>15</td><td>47</td><td>14</td><td>37</td><td>9</td><td>0</td><td>185</td></tr>
+<tr><td>47</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2640047" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2640047</a></td><td><a href="./reports/47.html" target="_blank">./reports/47.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>48</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2633909" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2633909</a></td><td><a href="./reports/48.html" target="_blank">./reports/48.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>49</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2634330" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2634330</a></td><td><a href="./reports/49.html" target="_blank">./reports/49.html</a></td><td>15</td><td>47</td><td>14</td><td>29</td><td>9</td><td>0</td><td>161</td></tr>
+<tr><td>5</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/library/hours.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/library/hours.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/5.html" target="_blank">./reports/5.html</a></td><td>9</td><td>39</td><td>8</td><td>9</td><td>9</td><td>0</td><td>77</td></tr>
+<tr><td>50</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/view.aspx?CN=2638576" target="_blank">https://cucatalog.org/polaris/view.aspx?CN=2638576</a></td><td><a href="./reports/50.html" target="_blank">./reports/50.html</a></td><td>15</td><td>47</td><td>14</td><td>37</td><td>9</td><td>0</td><td>185</td></tr>
+<tr><td>6</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/library/events.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/library/events.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/6.html" target="_blank">./reports/6.html</a></td><td>10</td><td>39</td><td>8</td><td>10</td><td>9</td><td>0</td><td>80</td></tr>
+<tr><td>7</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/library/askus.aspx?ctx=6.1033.0.0.1" target="_blank">https://cucatalog.org/polaris/library/askus.aspx?ctx=6.1033.0.0.1</a></td><td><a href="./reports/7.html" target="_blank">./reports/7.html</a></td><td>10</td><td>45</td><td>8</td><td>11</td><td>9</td><td>0</td><td>83</td></tr>
+<tr><td>8</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/search/default.aspx?ctx=6.1033.0.0.1&amp;type=Keyword" target="_blank">https://cucatalog.org/polaris/search/default.aspx?ctx=6.1033.0.0.1&amp;type=Keyword</a></td><td><a href="./reports/8.html" target="_blank">./reports/8.html</a></td><td>12</td><td>45</td><td>11</td><td>10</td><td>9</td><td>0</td><td>92</td></tr>
+<tr><td>9</td><td>The Urbana Free Library</td><td><a href="https://cucatalog.org/polaris/search/default.aspx?ctx=6.1033.0.0.1&amp;type=Browse" target="_blank">https://cucatalog.org/polaris/search/default.aspx?ctx=6.1033.0.0.1&amp;type=Browse</a></td><td><a href="./reports/9.html" target="_blank">./reports/9.html</a></td><td>11</td><td>45</td><td>9</td><td>10</td><td>9</td><td>0</td><td>84</td></tr>
+</tbody></table>
+
+<script>
+
+$(document).ready(function() {
+  $('#summary-table').DataTable({ paging: false });
+});
+</script>
+
+
+</body>
+</html>
