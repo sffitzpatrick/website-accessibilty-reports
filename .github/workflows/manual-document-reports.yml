@@ -1,0 +1,109 @@
+# .github/workflows/manual-document-reports.yml
+name: Manual Document Report
+
+on:
+  workflow_dispatch:
+    inputs:
+      site_name:
+        description: 'Client name (used in logs/folder names)'
+        required: true
+      site_url:
+        description: 'URL of the site to crawl for documents'
+        required: true
+      max_pages:
+        description: 'Max pages to crawl for document links'
+        required: true
+        default: '100'
+      max_documents:
+        description: 'Max documents to audit'
+        required: true
+        default: '500'
+      ignore_robots:
+        description: 'Ignore robots.txt (needed for Pantheon dev/test sites, which disallow all crawling)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+
+  audit:
+    runs-on: ubuntu-latest
+
+    env:
+      SITE_NAME: ${{ inputs.site_name }}
+      SITE_URL: ${{ inputs.site_url }}
+      MAX_PAGES: ${{ inputs.max_pages }}
+      MAX_DOCUMENTS: ${{ inputs.max_documents }}
+
+    steps:
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0  # Fetch full history so we can pull and push safely
+
+      # Kept apart from manual-reports/ so a document run never overwrites a
+      # site report made for the same client on the same day
+      - name: Set datestamp and report folder
+        run: |
+          DATESTAMP=$(date +'%Y-%m-%d')
+          echo "DATESTAMP=$DATESTAMP" >> "$GITHUB_ENV"
+          echo "REPORT_PATH=document-reports/$SITE_NAME/$DATESTAMP" >> "$GITHUB_ENV"
+          echo "REPORT_DIR=docs/document-reports/$SITE_NAME/$DATESTAMP" >> "$GITHUB_ENV"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install tools
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+
+      - name: Run document audit
+        run: node document-crawler.js --report-dir="$REPORT_DIR" --max-pages="$MAX_PAGES" --max-documents="$MAX_DOCUMENTS" --site-name="$SITE_NAME" --start-url="$SITE_URL" --datestamp="$DATESTAMP" ${{ inputs.ignore_robots && '--ignore-robots' || '' }}
+
+      - name: Generate HTML Dashboard
+        run: |
+          node generate-dashboard.js \
+            --report-dir "$REPORT_DIR" \
+            --site-name "$SITE_NAME" \
+            --datestamp "$DATESTAMP"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: document-report-${{ env.SITE_NAME }}
+          path: ${{ env.REPORT_DIR }}
+
+      - name: Commit and push reports
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add "$REPORT_DIR"
+          git commit -m "Add document report for $SITE_NAME $DATESTAMP" || echo "No changes"
+          git pull origin main --rebase
+          git push origin main
+
+      - name: Email report
+        run: |
+          curl --request POST \
+            --url https://api.sendgrid.com/v3/mail/send \
+            --header "Authorization: Bearer $SENDGRID_API_KEY" \
+            --header 'Content-Type: application/json' \
+            --data '{
+              "personalizations": [{
+                "to": [{ "email": "sean@proofstudio.co" }],
+                "subject": "Document report for '"$SITE_NAME"'"
+              }],
+              "from": { "email": "noreply@proofstudio.co" },
+              "content": [{
+                "type": "text/plain",
+                "value": "The document accessibility report for '"$SITE_NAME"' is ready. View it here: https://sffitzpatrick.github.io/website-accessibilty-reports/'"$REPORT_PATH"'/"
+              }]
+            }'
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API }}

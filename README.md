@@ -51,4 +51,25 @@ node crawler.js --start-url=https://example.com --report-dir=tmp-out --max-pages
 
 The CLI accepts both hyphenated flags (recommended) and underscore-style flags used in existing GitHub Actions. Environment variables are also supported so existing workflows don't need changes.
 
+**Document audit**
 
+`document-crawler.js` crawls the site for linked documents (PDF, Word, Excel, PowerPoint), downloads each one and checks it for accessibility problems. It runs separately from `crawler.js`:
+
+```bash
+node document-crawler.js --start-url=https://example.com --report-dir=tmp-out --max-pages=50
+```
+
+It writes `documents.html` / `documents.csv` (one row per document), `document-issues.html` / `document-issues.csv` (one row per issue) and `documents.json` to the report directory. Documents are audited in memory and are not saved.
+
+What is checked:
+- PDF: tagged, real text (not a scanned image), title, language, figure alt text, heading tags, table header cells, bookmarks in long documents, form field names
+- Word (`.docx`): title, heading styles and heading order, image alt text, table header rows
+- Excel (`.xlsx`): title, default sheet names, merged cells, image/chart alt text, table header rows
+- PowerPoint (`.pptx`): title, slide titles, image/chart alt text
+- Legacy `.doc` / `.xls` / `.ppt`, OpenDocument and RTF files are listed as needing manual review
+
+These are structural checks only. A document with no issues detected still needs a manual review of reading order, colour contrast and alt text quality.
+
+Flags are the same as `crawler.js` (`--start-url`, `--report-dir`, `--max-pages`, `--site-name`, `--datestamp`, `--ignore-robots`, `--user-agent`, `--verbose`), plus:
+- `--max-documents` (env `MAX_DOCUMENTS`) — max documents to audit (default 500)
+- `--max-size` (env `MAX_DOCUMENT_MB`) — skip documents larger than this many MB (default 50)

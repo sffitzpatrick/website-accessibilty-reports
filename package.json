@@ -9,7 +9,8 @@
   "scripts": {
     "crawler": "node crawler.js",
     "summary_reporter": "node summary-reporter.js",
-    "crawl": "node a11y-run-all.js"
+    "crawl": "node a11y-run-all.js",
+    "documents": "node document-crawler.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
   "type": "commonjs",
   "dependencies": {
     "@axe-core/playwright": "~4.10",
+    "@xmldom/xmldom": "^0.9.12",
     "axe-core": "^4.10.3",
     "axe-html-reporter": "^2.2.11",
     "axios": "^1.10.0",
@@ -25,9 +27,11 @@
     "csv-writer": "^1.6.0",
     "date-fns": "^4.1.0",
     "jsdom": "^26.1.0",
+    "jszip": "^3.10.2",
     "minimalist": "^1.0.0",
     "minimist": "^1.2.8",
     "npm-run-all": "^4.1.5",
+    "pdfjs-dist": "^4.10.38",
     "pino": "^8.9.0",
     "playwright": "^1.53.1",
     "robots-parser": "^3.0.1"
