@@ -85,7 +85,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git add "$REPORT_DIR"
           git commit -m "Add document report for $SITE_NAME $DATESTAMP" || echo "No changes"
-          git pull origin main --rebase
+          # node_modules is tracked, so npm ci leaves unstaged changes that block a plain rebase
+          git pull origin main --rebase --autostash
           git push origin main
 
       - name: Email report
