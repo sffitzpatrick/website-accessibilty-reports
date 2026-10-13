@@ -8,6 +8,7 @@
 // -----------------------------
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const { chromium } = require('playwright');
 const robotsParser = require('robots-parser');
 const axios = require('axios');
@@ -61,7 +62,7 @@ const assetExts = /\.(css|js|json|xml|png|jpe?g|svg|gif|webp|ico|woff2?|ttf|eot|
 
 const visited = new Set();
 const toVisit = new Map([[START_URL, { source: '', text: '' }]]);
-// url -> { source, text, expected }; expected is false for links that only
+// url -> { sources, text, expected }; expected is false for links that only
 // turned out not to be web pages, which may or may not be documents
 const documents = new Map();
 let robots;
@@ -109,7 +110,8 @@ function robotsBlocked(url) {
 }
 
 function addDocument(url, source, text, expected) {
-  if (!documents.has(url)) documents.set(url, { source, text, expected });
+  if (!documents.has(url)) documents.set(url, { sources: new Set(), text, expected });
+  if (source) documents.get(url).sources.add(source);
 }
 
 // -----------------------------
@@ -177,8 +179,8 @@ async function crawlSite() {
 // -----------------------------
 // Download / Audit
 // -----------------------------
-async function auditUrl(url, { source, text, expected }) {
-  const result = { url, type: (typeFromUrl(url) || '').toUpperCase(), source, linkText: text, status: '', sizeKb: null, meta: {}, issues: [], error: '' };
+async function auditUrl(url, { sources, text, expected }) {
+  const result = { url, duplicateUrls: [], type: (typeFromUrl(url) || '').toUpperCase(), sources: [...sources], linkText: text, status: '', sizeKb: null, hash: '', meta: {}, issues: [], error: '' };
 
   if (robotsBlocked(url)) {
     result.status = 'Skipped';
@@ -205,6 +207,7 @@ async function auditUrl(url, { source, text, expected }) {
     }
 
     result.type = audit.type.toUpperCase();
+    result.hash = crypto.createHash('sha1').update(buffer).digest('hex');
     result.sizeKb = Math.round(buffer.length / 1024);
     result.meta = audit.meta;
     result.issues = audit.issues;
@@ -235,7 +238,28 @@ async function auditDocuments() {
   }
 
   await Promise.all(Array.from({ length: DOWNLOAD_CONCURRENCY }, worker));
-  return results.sort((a, b) => a.url.localeCompare(b.url));
+  return mergeDuplicates(results);
+}
+
+// The same file is often reachable at several URLs (http and https, or
+// uploaded more than once). Report it once, keeping every URL and source page.
+function mergeDuplicates(results) {
+  const preferHttps = r => (r.url.startsWith('https:') ? 0 : 1);
+  results.sort((a, b) => preferHttps(a) - preferHttps(b) || a.url.localeCompare(b.url));
+
+  const byHash = new Map();
+  const merged = [];
+  for (const result of results) {
+    const first = result.hash && byHash.get(result.hash);
+    if (!first) {
+      if (result.hash) byHash.set(result.hash, result);
+      merged.push(result);
+      continue;
+    }
+    first.duplicateUrls.push(result.url);
+    first.sources = [...new Set([...first.sources, ...result.sources])];
+  }
+  return merged.sort((a, b) => a.url.localeCompare(b.url));
 }
 
 // -----------------------------
@@ -249,7 +273,7 @@ function toCsv(headers, rows) {
 async function writeReports(results) {
   const count = (r, severity) => r.issues.filter(i => i.severity === severity).length;
 
-  const documentHeaders = ['Document', 'Type', 'Status', 'Errors', 'Warnings', 'Notes', 'Title', 'Size (KB)', 'Source Page', 'Link Text'];
+  const documentHeaders = ['Document', 'Type', 'Status', 'Errors', 'Warnings', 'Notes', 'Title', 'Size (KB)', 'Source Page', 'Linked From', 'Duplicate URLs', 'Link Text'];
   const documentRows = results.map(r => ({
     'Document': r.url,
     'Type': r.type,
@@ -259,7 +283,9 @@ async function writeReports(results) {
     'Notes': r.error || r.issues.filter(i => i.severity === 'manual').map(i => i.message).join('; '),
     'Title': r.meta.title || '',
     'Size (KB)': r.sizeKb ?? '',
-    'Source Page': r.source,
+    'Source Page': r.sources[0] || '',
+    'Linked From': `${r.sources.length} page(s)`,
+    'Duplicate URLs': r.duplicateUrls.join(' '),
     'Link Text': r.linkText
   }));
 
@@ -271,7 +297,7 @@ async function writeReports(results) {
     'Issue': i.message,
     'How to Fix': i.details,
     'WCAG': i.wcag,
-    'Source Page': r.source
+    'Source Page': r.sources[0] || ''
   })));
 
   const reportMeta = { siteUrl: START_URL, siteName: SITE_NAME, datestamp: DATESTAMP };
@@ -305,5 +331,6 @@ async function writeReports(results) {
 
   const withIssues = results.filter(r => r.status === 'Issues found').length;
   const failed = results.filter(r => r.status === 'Failed').length;
-  logger.info(`✅ Completed. Documents audited: ${results.length - failed}, with issues: ${withIssues}, failed to fetch: ${failed}`);
+  const duplicates = results.reduce((sum, r) => sum + r.duplicateUrls.length, 0);
+  logger.info(`✅ Completed. Documents audited: ${results.length - failed}, with issues: ${withIssues}, failed to fetch: ${failed}, duplicate copies merged: ${duplicates}`);
 })();

@@ -59,7 +59,7 @@ The CLI accepts both hyphenated flags (recommended) and underscore-style flags u
 node document-crawler.js --start-url=https://example.com --report-dir=tmp-out --max-pages=50
 ```
 
-It writes `documents.html` / `documents.csv` (one row per document), `document-issues.html` / `document-issues.csv` (one row per issue) and `documents.json` to the report directory. Documents are audited in memory and are not saved.
+It writes `documents.html` / `documents.csv` (one row per document), `document-issues.html` / `document-issues.csv` (one row per issue) and `documents.json` to the report directory. Documents are audited in memory and are not saved. A file reachable at more than one URL (http and https, or uploaded twice) is reported once, with the other URLs in the "Duplicate URLs" column; `documents.json` lists every page that links to each document.
 
 What is checked:
 - PDF: tagged, real text (not a scanned image), title, language, figure alt text, heading tags, table header cells, bookmarks in long documents, form field names
