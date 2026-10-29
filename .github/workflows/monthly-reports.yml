@@ -9,7 +9,7 @@ on:
 jobs:
 
   set-date:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       datestamp: ${{ steps.set.outputs.datestamp }}
     steps:
@@ -17,7 +17,7 @@ jobs:
         run: echo "datestamp=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
         
   audit:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     needs: set-date
 
@@ -118,7 +118,7 @@ jobs:
 
   commit-and-push:
     needs: [set-date, audit]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       DATESTAMP: ${{ needs.set-date.outputs.datestamp }}
     steps:
