@@ -3,10 +3,10 @@
   "startUrl": "https://urbanafreelibrary.org/",
   "datestamp": "2026-10-29",
   "axeVersion": "4.10.3",
-  "pagesScanned": 497,
+  "pagesScanned": 499,
   "totals": {
-    "violations": 63,
-    "needsReview": 124
+    "violations": 62,
+    "needsReview": 125
   },
   "issues": [
     {
@@ -3833,61 +3833,6 @@
       ]
     },
     {
-      "type": "violation",
-      "rule": "empty-heading",
-      "impact": "minor",
-      "help": "Headings should not be empty",
-      "description": "Ensure headings have discernible text",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/empty-heading?application=playwright",
-      "wcag": [
-        "best-practice"
-      ],
-      "selector": "h3:nth-child(38)",
-      "html": "<h3>&nbsp;</h3>",
-      "failureSummary": "Fix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
-      "checks": [
-        {
-          "kind": "any",
-          "id": "has-visible-text",
-          "message": "Element does not have text that is visible to screen readers",
-          "data": null,
-          "relatedNodes": []
-        },
-        {
-          "kind": "any",
-          "id": "aria-label",
-          "message": "aria-label attribute does not exist or is empty",
-          "data": null,
-          "relatedNodes": []
-        },
-        {
-          "kind": "any",
-          "id": "aria-labelledby",
-          "message": "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
-          "data": null,
-          "relatedNodes": []
-        },
-        {
-          "kind": "any",
-          "id": "non-empty-title",
-          "message": "Element has no title attribute",
-          "data": {
-            "messageKey": "noAttr"
-          },
-          "relatedNodes": []
-        }
-      ],
-      "screenshot": null,
-      "pageCount": 1,
-      "examplePages": [
-        {
-          "page": "383",
-          "url": "https://urbanafreelibrary.org/local-history/collections/chanute-collection/chanute-finding-aids",
-          "title": "Chanute Collection Finding Aids | Urbana Free Library"
-        }
-      ]
-    },
-    {
       "type": "needs-review",
       "rule": "aria-valid-attr-value",
       "impact": "critical",
@@ -3920,6 +3865,38 @@
           "page": "2",
           "url": "https://urbanafreelibrary.org/donate",
           "title": "Donate | Urbana Free Library"
+        }
+      ]
+    },
+    {
+      "type": "needs-review",
+      "rule": "frame-tested",
+      "impact": "critical",
+      "help": "Frames should be tested with axe-core",
+      "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=playwright",
+      "wcag": [
+        "best-practice"
+      ],
+      "selector": ".widgetframepreview",
+      "html": "<iframe title=\"embedded list of upcoming events at the library\" src=\"https://urbanafreelibrary.libnet.info/widget?id=15863&amp;style=1168&amp;location=1672\" data-widgetid=\"15863\" data-client=\"urbanafreelibrary\" scrolling=\"no\" style=\"overflow: hidden;\" marginheight=\"0\" class=\"widgetframepreview\" onload=\"resizeIframe(this)\" width=\"100%\" height=\"350\" frameborder=\"0\">",
+      "failureSummary": "Fix all of the following:\n  The iframe still has to be tested with axe-core",
+      "checks": [
+        {
+          "kind": "all",
+          "id": "frame-tested",
+          "message": "The iframe still has to be tested with axe-core",
+          "data": null,
+          "relatedNodes": []
+        }
+      ],
+      "screenshot": "screenshots/d5cc604aa5a5.png",
+      "pageCount": 1,
+      "examplePages": [
+        {
+          "page": "388",
+          "url": "https://urbanafreelibrary.org/local-history/collections/local-history",
+          "title": "Local History Collections | Urbana Free Library"
         }
       ]
     },
@@ -3958,7 +3935,7 @@
         }
       ],
       "screenshot": "screenshots/9c1eda6800c8.png",
-      "pageCount": 497,
+      "pageCount": 499,
       "examplePages": [
         {
           "page": "1",
@@ -4047,7 +4024,7 @@
         }
       ],
       "screenshot": "screenshots/787c7ca35585.png",
-      "pageCount": 497,
+      "pageCount": 499,
       "examplePages": [
         {
           "page": "1",
@@ -4136,7 +4113,7 @@
         }
       ],
       "screenshot": "screenshots/5ea280cf8197.png",
-      "pageCount": 497,
+      "pageCount": 499,
       "examplePages": [
         {
           "page": "1",
@@ -4225,7 +4202,7 @@
         }
       ],
       "screenshot": "screenshots/d40d2e20e84c.png",
-      "pageCount": 497,
+      "pageCount": 499,
       "examplePages": [
         {
           "page": "1",
@@ -4314,7 +4291,7 @@
         }
       ],
       "screenshot": "screenshots/1ba45a4d0f02.png",
-      "pageCount": 497,
+      "pageCount": 499,
       "examplePages": [
         {
           "page": "1",
@@ -4403,7 +4380,7 @@
         }
       ],
       "screenshot": "screenshots/b91a48454aa3.png",
-      "pageCount": 451,
+      "pageCount": 465,
       "examplePages": [
         {
           "page": "1",
@@ -4414,6 +4391,11 @@
           "page": "10",
           "url": "https://urbanafreelibrary.org/ebooks-more",
           "title": "eBooks | Urbana Free Library"
+        },
+        {
+          "page": "100",
+          "url": "https://urbanafreelibrary.org/taxonomy/term/4",
+          "title": "Homework Help & Test Prep | Urbana Free Library"
         },
         {
           "page": "101",
@@ -4449,11 +4431,6 @@
           "page": "107",
           "url": "https://urbanafreelibrary.org/local-history/about/how-to-order",
           "title": "How to Order Copies | Urbana Free Library"
-        },
-        {
-          "page": "108",
-          "url": "https://urbanafreelibrary.org/local-history/about/interlibrary-loan",
-          "title": "Interlibrary Loan | Urbana Free Library"
         }
       ]
     },
@@ -4492,8 +4469,13 @@
         }
       ],
       "screenshot": "screenshots/dfbc2249c678.png",
-      "pageCount": 429,
+      "pageCount": 442,
       "examplePages": [
+        {
+          "page": "100",
+          "url": "https://urbanafreelibrary.org/taxonomy/term/4",
+          "title": "Homework Help & Test Prep | Urbana Free Library"
+        },
         {
           "page": "101",
           "url": "https://urbanafreelibrary.org/taxonomy/term/5",
@@ -4530,19 +4512,14 @@
           "title": "How to Order Copies | Urbana Free Library"
         },
         {
-          "page": "108",
-          "url": "https://urbanafreelibrary.org/local-history/about/interlibrary-loan",
-          "title": "Interlibrary Loan | Urbana Free Library"
-        },
-        {
           "page": "109",
           "url": "https://urbanafreelibrary.org/local-history/using-the-archives/harmful-language",
           "title": "Harmful Language in Archives | Urbana Free Library"
         },
         {
-          "page": "113",
-          "url": "https://urbanafreelibrary.org/local-history/blog/urbana-free-library-awarded-grant-digitize-notable-audio-visual-materials",
-          "title": "The Urbana Free Library Awarded Grant to Digitize Notable Audio-Visual Materials | Urbana Free Library"
+          "page": "111",
+          "url": "https://urbanafreelibrary.org/about/friends",
+          "title": "Friends of the Library | Urbana Free Library"
         }
       ]
     },
@@ -4581,32 +4558,12 @@
         }
       ],
       "screenshot": "screenshots/9cff791ce261.png",
-      "pageCount": 45,
+      "pageCount": 33,
       "examplePages": [
         {
-          "page": "100",
-          "url": "https://urbanafreelibrary.org/taxonomy/term/4",
-          "title": "Homework Help & Test Prep | Urbana Free Library"
-        },
-        {
-          "page": "111",
-          "url": "https://urbanafreelibrary.org/about/friends",
-          "title": "Friends of the Library | Urbana Free Library"
-        },
-        {
-          "page": "112",
-          "url": "https://urbanafreelibrary.org/local-history/blog/knitting-its-not-just-grandmas-anymore-was-it-ever-really",
-          "title": "Knitting, it’s not just for Grandmas anymore, but was it ever really… | Urbana Free Library"
-        },
-        {
-          "page": "116",
-          "url": "https://urbanafreelibrary.org/local-history/blog/family-history-bb-blaisdells-and-buseys",
-          "title": "Family History B&B: the Blaisdells and the Buseys | Urbana Free Library"
-        },
-        {
-          "page": "118",
-          "url": "https://urbanafreelibrary.org/local-history/blog/exploring-1919-yearbook",
-          "title": "Exploring a 1919 Yearbook | Urbana Free Library"
+          "page": "108",
+          "url": "https://urbanafreelibrary.org/local-history/about/interlibrary-loan",
+          "title": "Interlibrary Loan | Urbana Free Library"
         },
         {
           "page": "124",
@@ -4614,24 +4571,44 @@
           "title": "Farm Aid: 40 Years Later | Urbana Free Library"
         },
         {
-          "page": "127",
-          "url": "https://urbanafreelibrary.org/local-history/blog/urbana-lincoln-jumers-royer-quick-pictorial-history",
-          "title": "Urbana Lincoln to Jumer’s to Royer: A Quick, Pictorial History | Urbana Free Library"
+          "page": "168",
+          "url": "https://urbanafreelibrary.org/about-us/foundation/ways-to-give",
+          "title": "Ways to Give | Urbana Free Library"
         },
         {
-          "page": "132",
-          "url": "https://urbanafreelibrary.org/local-history/blog?page=2",
+          "page": "177",
+          "url": "https://urbanafreelibrary.org/library-news/blog/urbana-free-library-participates-ihls-library-crawl",
+          "title": "The Urbana Free Library Participates in the IHLS Library Crawl | Urbana Free Library"
+        },
+        {
+          "page": "224",
+          "url": "https://urbanafreelibrary.org/local-history/blog/uncovering-lgbtq-spaces-champaign-county",
+          "title": "Uncovering LGBTQ Spaces in Champaign County | Urbana Free Library"
+        },
+        {
+          "page": "272",
+          "url": "https://urbanafreelibrary.org/local-history/blog/newly-processed-collections-boneyard-creek",
+          "title": "Newly Processed Collections: Boneyard Creek | Urbana Free Library"
+        },
+        {
+          "page": "282",
+          "url": "https://urbanafreelibrary.org/local-history/blog/chanute-air-force-bases-resident-clothing-historian-master-sergeant-gary-t",
+          "title": "Chanute Air Force Base’s Resident Clothing Historian: Master Sergeant Gary T. Alstrand | Urbana Free Library"
+        },
+        {
+          "page": "355",
+          "url": "https://urbanafreelibrary.org/local-history/blog/uncovered-gravestones-leal-park",
+          "title": "Uncovered Gravestones in Leal Park | Urbana Free Library"
+        },
+        {
+          "page": "365",
+          "url": "https://urbanafreelibrary.org/local-history/blog/spring-2013-local-history-genealogy-workshop-series",
+          "title": "Spring 2013 Local History & Genealogy Workshop Series | Urbana Free Library"
+        },
+        {
+          "page": "375",
+          "url": "https://urbanafreelibrary.org/local-history/blog?page=27",
           "title": "Local History & Genealogy Blog | Urbana Free Library"
-        },
-        {
-          "page": "175",
-          "url": "https://urbanafreelibrary.org/node/224",
-          "title": "Planning Documents | Urbana Free Library"
-        },
-        {
-          "page": "184",
-          "url": "https://urbanafreelibrary.org/library-news/blog/one-card-endless-possibilities-celebrate-library-card-sign-month-september",
-          "title": "One Card, Endless Possibilities: Celebrate Library Card Sign-Up Month this September | Urbana Free Library"
         }
       ]
     },
@@ -9090,8 +9067,8 @@
         "wcag2a",
         "wcag412"
       ],
-      "selector": "iframe[name=\"a-hst1pu1pv9ie\"]",
-      "html": "<iframe title=\"reCAPTCHA\" width=\"164\" height=\"144\" role=\"presentation\" name=\"a-hst1pu1pv9ie\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcR3bMgAAAAAMtqJWWe7gF_q2tXwASN7i6EkbCR&amp;co=aHR0cHM6Ly91cmJhbmFmcmVlbGlicmFyeS5vcmc6NDQz&amp;hl=en&amp;type=image&amp;v=NhfdZHzre16wrc2m6BxEdu7J&amp;theme=light&amp;size=compact&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=m34r9amlzfum\">",
+      "selector": "iframe[name=\"a-cf8ab9temi55\"]",
+      "html": "<iframe title=\"reCAPTCHA\" width=\"164\" height=\"144\" role=\"presentation\" name=\"a-cf8ab9temi55\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcR3bMgAAAAAMtqJWWe7gF_q2tXwASN7i6EkbCR&amp;co=aHR0cHM6Ly91cmJhbmFmcmVlbGlicmFyeS5vcmc6NDQz&amp;hl=en&amp;type=image&amp;v=bSuJ2xBC8cFy7pM4Z3Hu9boH&amp;theme=light&amp;size=compact&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=k6tbzqboq8uj\">",
       "failureSummary": "Fix all of the following:\n  Element's title attribute is not unique",
       "checks": [
         {
@@ -9123,8 +9100,8 @@
         "wcag2a",
         "wcag412"
       ],
-      "selector": "iframe[name=\"a-vo6ellhs3fgb\"]",
-      "html": "<iframe title=\"reCAPTCHA\" width=\"164\" height=\"144\" role=\"presentation\" name=\"a-vo6ellhs3fgb\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcR3bMgAAAAAMtqJWWe7gF_q2tXwASN7i6EkbCR&amp;co=aHR0cHM6Ly91cmJhbmFmcmVlbGlicmFyeS5vcmc6NDQz&amp;hl=en&amp;type=image&amp;v=NhfdZHzre16wrc2m6BxEdu7J&amp;theme=light&amp;size=compact&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=eczpim7gq6fp\">",
+      "selector": "iframe[name=\"a-x2reivhlse9i\"]",
+      "html": "<iframe title=\"reCAPTCHA\" width=\"164\" height=\"144\" role=\"presentation\" name=\"a-x2reivhlse9i\" frameborder=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcR3bMgAAAAAMtqJWWe7gF_q2tXwASN7i6EkbCR&amp;co=aHR0cHM6Ly91cmJhbmFmcmVlbGlicmFyeS5vcmc6NDQz&amp;hl=en&amp;type=image&amp;v=bSuJ2xBC8cFy7pM4Z3Hu9boH&amp;theme=light&amp;size=compact&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=m1upyb890bu5\">",
       "failureSummary": "Fix all of the following:\n  Element's title attribute is not unique",
       "checks": [
         {
@@ -9913,7 +9890,7 @@
       "wcag": [
         "best-practice"
       ],
-      "selector": "iframe[name=\"a-hst1pu1pv9ie\"] >>> #recaptcha-anchor-label",
+      "selector": "iframe[name=\"a-cf8ab9temi55\"] >>> #recaptcha-anchor-label",
       "html": "<label class=\"rc-anchor-center-item rc-anchor-checkbox-label\" aria-hidden=\"true\" role=\"presentation\" id=\"recaptcha-anchor-label\"><span aria-live=\"polite\" aria-labelledby=\"recaptcha-accessible-status\"></span>I'm not a robot</label>",
       "failureSummary": "Fix any of the following:\n  ARIA role presentation must be removed when the element is made visible, as it is not allowed for the element",
       "checks": [
@@ -9947,7 +9924,7 @@
       "wcag": [
         "best-practice"
       ],
-      "selector": "iframe[name=\"a-vo6ellhs3fgb\"] >>> #recaptcha-anchor-label",
+      "selector": "iframe[name=\"a-x2reivhlse9i\"] >>> #recaptcha-anchor-label",
       "html": "<label class=\"rc-anchor-center-item rc-anchor-checkbox-label\" aria-hidden=\"true\" role=\"presentation\" id=\"recaptcha-anchor-label\"><span aria-live=\"polite\" aria-labelledby=\"recaptcha-accessible-status\"></span>I'm not a robot</label>",
       "failureSummary": "Fix any of the following:\n  ARIA role presentation must be removed when the element is made visible, as it is not allowed for the element",
       "checks": [
